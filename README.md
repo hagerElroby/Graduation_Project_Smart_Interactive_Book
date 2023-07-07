@@ -65,17 +65,17 @@ If you have the source code on your machine:
 <<<<<<< HEAD
 <<<<<<< HEAD
 ![Image Alt Text](./images/Screenshot_2023-06-21-19-03-51-94.png)
-![Image Alt Text]("./images/Screenshot_2023-06-21-18-59-34-41.png")
-![Image Alt Text]("./images/Screenshot_2023-06-21-18-59-38-12.png")
-![Image Alt Text]("./images/Screenshot_2023-06-21-18-59-41-75.png")
-![Image Alt Text]("./images/Screenshot_2023-06-21-18-59-51-79.png")
-![Image Alt Text]("./images/Screenshot_2023-06-21-19-02-26-31.png")
-![Image Alt Text]("./images/Screenshot_2023-06-21-19-00-01-19.png")
-![Image Alt Text]("./images/Screenshot_2023-06-21-19-00-12-75.png")
-![Image Alt Text]("./images/Screenshot_2023-06-21-19-03-33-44.png")
-![Image Alt Text]("./images/Screenshot_2023-06-21-19-03-43-48.png")
+![Image Alt Text](./images/Screenshot_2023-06-21-18-59-34-41.png)
+![Image Alt Text](./images/Screenshot_2023-06-21-18-59-38-12.png)
+![Image Alt Text](./images/Screenshot_2023-06-21-18-59-41-75.png)
+![Image Alt Text](./images/Screenshot_2023-06-21-18-59-51-79.png)
+![Image Alt Text](./images/Screenshot_2023-06-21-19-02-26-31.png)
+![Image Alt Text](./images/Screenshot_2023-06-21-19-00-01-19.png)
+![Image Alt Text](./images/Screenshot_2023-06-21-19-00-12-75.png)
+![Image Alt Text](./images/Screenshot_2023-06-21-19-03-33-44.png)
+![Image Alt Text](./images/Screenshot_2023-06-21-19-03-43-48.png)
 =======
-  ![Image Alt Text]("./images/Screenshot_2023-06-21-19-03-51-94.png")
+  ![Image Alt Text](./images/Screenshot_2023-06-21-19-03-51-94.png)
 >>>>>>> 700cbe0c3de50afd97ffc63bfef2d88b1ac8461c
 
 =======
