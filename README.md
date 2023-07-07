@@ -75,9 +75,5 @@ If you have the source code on your machine:
 ![Image Alt Text](./images/Screenshot_2023-06-21-19-03-33-44.png)
 ![Image Alt Text](./images/Screenshot_2023-06-21-19-03-43-48.png)
 =======
-  ![Image Alt Text](./images/Screenshot_2023-06-21-19-03-51-94.png)
->>>>>>> 700cbe0c3de50afd97ffc63bfef2d88b1ac8461c
-
-=======
->>>>>>> 60823a33c9c37e1d8a3199c254db036340d743de
+ 
 
