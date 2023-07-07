@@ -1,0 +1,1765 @@
+{
+  "authors": ["userfirst1 userlast1"],
+  "toc": [
+    {
+      "id": 70335069006,
+      "name": "Respiration in living organisms",
+      "description": "First Node(Root)",
+      "expanded": true,
+      "nodeNum": 0,
+      "depth": 0,
+      "children": [
+        {
+          "name": "Introduction",
+          "id": 97981394518,
+          "depth": 1,
+          "parentId": 70335069006
+        },
+        {
+          "name": "What is respiration ?",
+          "id": 89863198556,
+          "depth": 1,
+          "nodeNum": 1,
+          "expanded": true,
+          "children": [],
+          "text": {
+            "en": "<p><strong>The concept of respiration: </strong></p><p>respiration process occurs by taking in the oxygen</p>"
+          },
+          "parentId": 70335069006
+        },
+        {
+          "name": "why respiration",
+          "id": 100502329152,
+          "depth": 1,
+          "parentId": 70335069006
+        }
+      ]
+    },
+    {
+      "name": "cellular respiration",
+      "id": 109824618867,
+      "depth": 0,
+      "expanded": true,
+      "children": [
+        {
+          "name": "aeropic respiration",
+          "id": 100374357999,
+          "depth": 1,
+          "expanded": true,
+          "children": [
+            {
+              "name": "Glucose oxidization stages",
+              "id": 120057072545,
+              "depth": 2,
+              "expanded": true,
+              "children": [
+                {
+                  "name": "Glycolysis",
+                  "id": 107202764562,
+                  "depth": 3,
+                  "expanded": true,
+                  "children": [],
+                  "text": {
+                    "en": "<p class=\"ql-align-justify\"><strong>A) Glycolysis</strong></p><p class=\"ql-align-justify\">\tGlycolysis places in both aerobic and anaerobic respiration produce energy in which one molecule of glucose breakdown forming two molecules of pyruvic acid (3-carbons) passing through a group of reactions through which glucose is converted into glucose (6-phosphate) then fructose (6-phosphate) then fructose 1-6 diphosphate which forms two molecules of PGAL phosphoglyceraldehyde to be oxidized in two pyruvic and reduce two molecules of NAD<sup>+</sup> into NADH and two molecules of ATP are produced in the citosole of the cell. All of these reactions are occurred in the absence or lake of oxygen therefore, these reactions are called anaerobic respiration.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">\tThe energy resulted is not enough to perform all vital activities of live n organism, therefore, in the presence of oxygen, pyruvic acid passes into the mitochondria to produce more energy. This takes place in two stage, Krebs cycle and electron transport.</p><p class=\"ql-align-justify\"><br></p>"
+                  },
+                  "parentId": 120057072545
+                },
+                {
+                  "name": "Krebs cycle",
+                  "id": 73759552509,
+                  "depth": 3,
+                  "expanded": true,
+                  "children": [],
+                  "text": {
+                    "en": "<p><strong>B) Krebs cycle</strong></p><p class=\"ql-align-justify\">1.&nbsp;&nbsp;&nbsp;Each molecule of pyruvic acid is oxidized in the presence of co-enzyme (A) into acetyl co-A, in this reaction to molecules of NADH and two molecules of CO2 are produced. Also acetyl groups from breaking down fat molecules or protein molecules can combine with co-A enzyme to join to Krebs cycle</p><p class=\"ql-align-justify\">2.&nbsp;&nbsp;&nbsp;Each molecule of acetyl co-A joins Krebs cycle where its co-A a splits of to repeat its role, at the same time acetyl group (2C) combines with a compound (4C) oxaloacetic acid to form a compound (6C) citric acid which passes through three intermediate compounds. Its starts by ketoglutaric acid then succinic acid then malic acid and at the end of the reactions citric acid is formed again, therefore, Krebs cycle is called the citric acid cycle.</p><p class=\"ql-align-justify\">3.&nbsp;&nbsp;&nbsp;Two molecules of CO<sub>2</sub> are released and one ATP molecule with NADH molecules, one FADh<sub>2</sub> molecules are produced in each cycle (Krebs cycle is repeated twice, once for each molecule of acetyl group) </p><p class=\"ql-align-justify\">It is clear that Krebs cycle doesn't need oxygen sensor old electrons and protons are removed during oxidation of carbon atoms and received by NAD<sup>+</sup> and FAD molecules.</p><p>&nbsp;</p>"
+                  },
+                  "parentId": 120057072545
+                },
+                {
+                  "name": "Electron transport",
+                  "id": 93415780377,
+                  "depth": 3,
+                  "parentId": 120057072545
+                }
+              ],
+              "text": {
+                "en": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(240, 102, 102);\">Oxidation of glucose molecule takes place and three major estates&nbsp;</strong></p><p class=\"ql-align-justify\">A) glycolysis</p><p class=\"ql-align-justify\">B) Krebs cycle</p><p class=\"ql-align-justify\">C) Electron transport</p><iframe class=\"ql-video\" allowfullscreen=\"true\" src=\"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/METOCONDERIA_61321a7c65e96e623f0691cd.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIA4ZSSFNBKM7PRXPP4%2F20210903%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210903T125529Z&amp;X-Amz-Expires=10000&amp;X-Amz-Security-Token=FwoGZXIvYXdzEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDMKWb1b1R%2FKcHwO4GyK2Addw8h70shFByXSOuzKCGcBAj3EQcx9x5dVO%2FHtEZWZJI0lK%2BoY8qE5OEgGo0ewoIPUEhx6xmkAdJ5IylZwRtn8r46iUTNue%2FhF0C0y%2F27h%2BZXIOpwiY9AjKiNUp06dKt880Md86zWUvcq21ncw9DkjDe%2FBqKMUmgWT7huTXUeExnrgq5gI63XrQBi15pYYRhJflq6bGukmV%2FF%2FtspEyRSUjPNEhN2QZ1rI5ku5AoE81I1KcYBkJKMG2yIkGMi2zuOiYbZSLhYcmKUHm%2FTEWguDwZMqEWwHuE8RHdHooHDNMSI5PZusfIEkKFQE%3D&amp;X-Amz-Signature=22e93e6fbf42b7848ca85f8c067d286bbe514311ec770eaed9cf7f45e16e95fd&amp;X-Amz-SignedHeaders=host\" frameborder=\"0\"></iframe><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">\t\tGlycolysis what years in the <span style=\"background-color: rgb(102, 185, 102);\">cytosole</span> of the cell while the two steps of Krebs cycle and electron transport occur inside the <span style=\"background-color: rgb(204, 232, 204);\">mitochondria</span> where respiratory enzymes, water, phosphate groups, co-enzymes, and electron carrier molecules or cytochromes (carried electron at different levels) are situated.</p><p class=\"ql-align-justify\">\tIn the breaking down of glucose and Krebs cycle, hydrogen atoms are removed from the carbon skeleton of glucose molecule to pass to the co-enzymes which act as hydrogen carriers. The most important of them are NAD<sup>+</sup> which is reduced into NADH and FAD which is reduced into FADH<sub>2.</sub></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p>"
+              },
+              "parentId": 100374357999
+            }
+          ],
+          "parentId": 109824618867
+        },
+        {
+          "name": "anaeropic respiration",
+          "id": 121450865971,
+          "depth": 1,
+          "expanded": true,
+          "children": [],
+          "parentId": 109824618867
+        }
+      ]
+    },
+    {
+      "name": "Respiration in human",
+      "id": 96355145571,
+      "depth": 0,
+      "nodeNum": null,
+      "expanded": true,
+      "children": []
+    }
+  ],
+  "relatedObjects": [
+    "6138d775aa91823829859400",
+    "61379048aa91821c4e8593fa",
+    "6137718aaa9182e47a8593f6",
+    "613627d0aa918280dc8593e9",
+    "613514c0aa9182fdb78593e2",
+    "6134fe9eaa918253328593e0",
+    "61326fb0a7c67f110b50ef19",
+    "61321a7dbf84683531870217",
+    "613109b4bf84683ab1870212",
+    "612559711337b644cba65725",
+    "612bb833f8bc10436a4979ec",
+    "612bbe16f8bc10ca844979ee",
+    "612bbe1ef8bc10d29c4979ef",
+    "613caa5262d8a210c30ef429",
+    "613cabd962d8a28e8b0ef42a",
+    "613caf3562d8a282650ef42b",
+    "613ce91c62d8a275040ef430",
+    "613db7bb62d8a25ac40ef432",
+    "613dccb862d8a2a6420ef433",
+    "613e4cc162d8a283b20ef434",
+    "615617d3e163b70041f6e806",
+    "615617d3e163b70041f6e806",
+    "61561a19e163b7ce1ff6e807",
+    "61561e67e163b76483f6e808",
+    "619c19b8cacb4f019387c020"
+  ],
+  "year": "1970-01-01T00:00:02.021Z",
+  "deleted": false,
+  "isPublished": true,
+  "_id": "61645f97fccd34a44373699b",
+  "createdAt": "2021-10-11T16:00:23.213Z",
+  "updatedAt": "2022-03-01T17:14:28.215Z",
+  "title": "Biology - second year -secondary",
+  "language": "en",
+  "domainId": "d7c8da80d67227affcb50494c1a9cfa7",
+  "coverPageURL": "eBooks/azharengineering2020/ut1/61645f97fccd34a44373699b/bio-2.jpg",
+  "tenantId": "azharengineering2020",
+  "ownershipId": "azharengineering2020_ut1",
+  "contentsURL": "eBooks/azharengineering2020/ut1/61645f97fccd34a44373699b/Biology-Copy_contents.txt",
+  "glossaryURL": "eBooks/azharengineering2020/ut1/61645f97fccd34a44373699b/Biology-Copy_glossary.txt",
+  "contents": [
+    {
+      "id": 70335069006,
+      "name": "Respiration in living organisms",
+      "description": "First Node(Root)",
+      "expanded": true,
+      "nodeNum": 0,
+      "depth": 0,
+      "text": {
+        "en": "<p><span style=\"font-size: 24px;\">At the end of this chapter the student should be able to: </span></p><ol><li><span style=\"font-size: 20px;\">- Identify the concept of cellular respiration. </span></li><li><span style=\"font-size: 20px;\">- Understand the steps of glycolysis and its importance. </span></li><li><span style=\"font-size: 20px;\">- Identify the steps of aerobic respiration and where it take place. </span></li><li><span style=\"font-size: 20px;\">- Distinguish between aerobic and anaerobic respiration. </span></li><li><span style=\"font-size: 20px;\">- State the importance of cellular respiration.</span></li><li><span style=\"font-size: 20px;\">- Link between photosynthesis and respiration in plant .</span></li></ol>",
+        "ar": "<h1 class=\"ql-direction-rtl ql-align-right\">التنفس في الكائنات الحية</h1><p class=\"ql-direction-rtl ql-align-right\"><span style=\"font-size: 24px;\">في نهاية هذا الفصل يجب أن يكون الطالب قادرًا على:</span></p><ol><li class=\"ql-direction-rtl ql-align-right\"><span style=\"font-size: 20px;\">- التعرف على مفهوم التنفس الخلوي.</span></li><li class=\"ql-direction-rtl ql-align-right\"><span style=\"font-size: 20px;\">- التعرف على خطوات تحلل السكر وأهميته.</span></li><li class=\"ql-direction-rtl ql-align-right\"><span style=\"font-size: 20px;\">- التعرف على خطوات التنفس الهوائي ومكان حدوثه.</span></li><li class=\"ql-direction-rtl ql-align-right\"><span style=\"font-size: 20px;\">- يميز بين التنفس الهوائي واللاهوائي.</span></li><li class=\"ql-direction-rtl ql-align-right\"><span style=\"font-size: 20px;\">- اذكر أهمية التنفس الخلوي.</span></li><li class=\"ql-direction-rtl ql-align-right\"><span style=\"font-size: 20px;\">- الربط بين التمثيل الضوئي والتنفس في النبات.</span></li></ol>"
+      },
+      "narrationText": {
+        "en": "At the end of this chapter the student should be able toIdentify the concept of cellular respiration Understand the steps of glycolysis and its importance Identify the steps of aerobic respiration and where it take place Distinguish between aerobic and anaerobic respiration State the importance of cellular respiration. Link between photosynthesis and respiration in plant",
+        "ar": "التنفس في الكائنات الحية: في نهاية هذا الفصل يجب أن يكون الطالب قادرًا على:- التعرف على مفهوم التنفس الخلوي. التعرف على خطوات تحلل السكر وأهميته.-تعرف على خطوات التنفس الهوائي ومكان حدوثه.- يميز بين التنفس الهوائي واللاهوائي.- اذكر أهمية التنفس الخلوي.  الربط بين التمثيل الضوئي والتنفس في النبات."
+      },
+      "audio": {
+        "en": "audioFiles/Respiration_in_living_organisms_en.mp3",
+        "ar": "eBooks/azharengineering2020/ut1/61645f97fccd34a44373699b/audioFiles/Respiration_in_living_organisms_ar.mp3"
+      }
+    },
+    {
+      "name": "Introduction",
+      "id": 97981394518,
+      "depth": 1,
+      "parentId": 70335069006,
+      "text": {
+        "en": "<p><span style=\"font-size: 20px;\">we have already have seen that green plants absorb energy from sunlight and change it into chemical energy there's told this energy after converting it into chemical energy by photosynthesis as high-energy compounds the most important of which are carbohydrates particularly glucose</span></p><p><br></p><p><img src=\"data:image/jpeg;base64,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\" style=\"\" width=\"424\"></p>",
+        "ar": "<h1 class=\"ql-direction-rtl ql-align-right\">مقدمة</h1><p class=\"ql-direction-rtl ql-align-right\"><span style=\"font-size: 20px;\">لقد رأينا بالفعل أن النباتات الخضراء تمتص الطاقة من ضوء الشمس وتحولها إلى طاقة كيميائية ، تم إخبار هذه الطاقة بعد تحويلها إلى طاقة كيميائية عن طريق التمثيل الضوئي كمركبات عالية الطاقة وأهمها الكربوهيدرات وخاصة الجلوكوز</span></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><img src=\"data:image/jpeg;base64,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\"></p><p>و</p>"
+      },
+      "narrationText": {
+        "en": "we have already have seen that green plants absorb energy from sunlight and change it into chemical energy there's told this energy after converting it into chemical energy by photosynthesis as high-energy compounds the most important of which are carbohydrates particularly glucose.",
+        "ar": " مقدمة . لقد رأينا بالفعل أن النباتات الخضراء تمتص الطاقة من ضوء الشمس وتحولها إلى طاقة كيميائية ، تم إخبار هذه الطاقة بعد تحويلها إلى طاقة كيميائية عن طريق التمثيل الضوئي كمركبات عالية الطاقة وأهمها الكربوهيدرات وخاصة الجلوكوز"
+      },
+      "keywords": [
+        {
+          "word": "chemical energy",
+          "definition": "",
+          "abbreviation": "",
+          "objId": "",
+          "sections": [97981394518]
+        },
+        {
+          "word": "photosynthesis",
+          "definition": "",
+          "abbreviation": "",
+          "objId": "",
+          "sections": [97981394518]
+        }
+      ],
+      "audio": {
+        "en": "audioFiles/Introduction_en.mp3",
+        "ar": "eBooks/azharengineering2020/ut1/61645f97fccd34a44373699b/audioFiles/Introduction_ar.mp3"
+      }
+    },
+    {
+      "name": "What is respiration ?",
+      "id": 89863198556,
+      "depth": 1,
+      "nodeNum": 1,
+      "expanded": true,
+      "text": {
+        "en": "<p><strong>The concept of respiration: </strong></p><p>Respiration process occurs by taking in the oxygen directly as a <strong>unicellular organisms </strong>or, by respiratory system in the case of <strong>multicellular organism</strong> and carbon dioxide is produced as a final product of respiration</p><p><br></p><p><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/media/azharengineering2020/ut1/other/f666783a-0e42-425b-ba6f-f9c2c27c9c59_istockphoto-468095270-640_adpp_is.mp4\"></iframe><p><br></p>",
+        "ar": "<h1 class=\"ql-direction-rtl ql-align-right\">ما هو التنفس؟</h1><p class=\"ql-direction-rtl ql-align-right\"><strong>مفهوم التنفس:</strong></p><p class=\"ql-direction-rtl ql-align-right\">تحدث عملية التنفس عن طريق أخذ الأكسجين مباشرة <strong>ككائنات وحيدة الخلية</strong> أو عن طريق الجهاز التنفسي في حالة <strong>الكائن متعدد الخلايا</strong> ويتم إنتاج ثاني أكسيد الكربون كمنتج نهائي للتنفس</p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/media/azharengineering2020/ut1/other/f666783a-0e42-425b-ba6f-f9c2c27c9c59_istockphoto-468095270-640_adpp_is.mp4\"></iframe><p class=\"ql-direction-rtl ql-align-right\"><br></p>"
+      },
+      "narrationText": {
+        "en": " The concept of respiration:. Respiration process occurs by taking in the oxygen directly as a unicellular organisms or, by respiratory system in the case of multicellular organism and carbon dioxide is produced as a final product of respiration.",
+        "ar": "ما هو التنفس؟. مفهوم التنفس: تحدث عملية التنفس عن طريق أخذ الأكسجين مباشرة ككائنات وحيدة الخلية أو عن طريق الجهاز التنفسي في حالة الكائن متعدد الخلايا ويتم إنتاج ثاني أكسيد الكربون كمنتج نهائي للتنفس"
+      },
+      "parentId": 70335069006,
+      "keywords": [
+        {
+          "word": "unicellular organisms",
+          "sectionId": 89863198556,
+          "definition": "",
+          "abbreviation": "",
+          "objId": ""
+        },
+        {
+          "word": "multicellular organisms",
+          "definition": "",
+          "abbreviation": "",
+          "objId": "",
+          "sections": [89863198556]
+        },
+        {
+          "word": "respiration process",
+          "sectionId": 89863198556,
+          "definition": "",
+          "abbreviation": "",
+          "objId": ""
+        }
+      ],
+      "audio": {
+        "en": "audioFiles/What_is_respiration_?_en.mp3",
+        "ar": "eBooks/azharengineering2020/ut1/61645f97fccd34a44373699b/audioFiles/What_is_respiration_?_ar.mp3"
+      }
+    },
+    {
+      "name": "why respiration",
+      "id": 100502329152,
+      "depth": 1,
+      "parentId": 70335069006,
+      "interactiveObject": {
+        "url": "https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/energy_613e4cc16682baedcc2e735a.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA4ZSSFNBKLKRWFHOY%2F20230620%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230620T190744Z&X-Amz-Expires=10000&X-Amz-Security-Token=FwoGZXIvYXdzEGUaDN6xymKm45gz%2BUiUyCK2AQmvi3LVCvGIKgp%2BXhWk4MSMIpY%2BnlWj6ajuicTX6i08xBEMFyo%2BTCNaF7NpWD8aRhXjTEyhc3yyYF9RMv5nBWcrzvy1IMGWfcBKABVQoPAtZlqTqA2mae628ynpQmu3o16X2Ppg5AlpHwJAiHYu0yRxJ3GAD0cP9kblz4p510XiAytXugp7oUg7ieNas3lkv3tKFWn0UbPeTrTE%2BmzEPI1SMYNxl5A2hzZt%2FO%2FJYMq73WB%2BKFhkKIDyx6QGMi33JBOGdGOBOm4t2ra12F9wiP%2B1p2dXpq7JTutun44cqTRBJV6l0vKpCSdlnLU%3D&X-Amz-Signature=dbee964feea203b730f0ef453b9272eb4dbff1cd31635356397ead0491d32f12&X-Amz-SignedHeaders=host"
+      },
+      "text": {
+        "en": "<p><strong>The importance of respiration to living organisms:</strong></p><p><br></p><p>In cellular respiration the cell breaks down food molecules in order to release the <span style=\"background-color: rgb(255, 194, 102);\">energy</span> which is used by the cell to perform its vital functions and activities.</p><p><br></p><p><br></p>",
+        "ar": "<h1 class=\"ql-direction-rtl ql-align-right\">لماذا التنفس</h1><p class=\"ql-direction-rtl ql-align-right\"><strong>أهمية التنفس للكائنات الحية:</strong></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\">في التنفس<a href=\"objective_0:0\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 0);\"><u> الخلوي ، تكسر الخلية جزيئات الطعام من أجل إطلاق الطاقة التي تستخدمها الخلية لأداء وظائفها وأنشطتها الحيوية.</u></a></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/energy_613e4cc16682baedcc2e735a_ar.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIA4ZSSFNBKKVZOER4Y%2F20220301%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220301T165918Z&amp;X-Amz-Expires=10000&amp;X-Amz-Security-Token=FwoGZXIvYXdzEML%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDP%2BugGLC1H9MEzmkcSK2AeHZDly1FWuBtN%2BB2OI4uxLeIb1HEzuqlTrQ%2FtNGvY2qT8NBNtK%2FL5K5xolGT2%2BzoVj8aPI33xu6%2BoyYR%2FqlJGuG7DTbnwCx69MlM5UMA54UrM9N%2BsgwrzZneX9dhzujgdU5rN1yUqVE25mxK11ZV1RWThgePcAFKpaytWK5MYnfUG0MF0V8WcthZGwiEFrIBAjfAypXzZ5qySEppPaMlsn0RkBG10uFisy8k7cN3qux2Y0rUCieKOah%2BZAGMi1IngfHRnNPW4%2B2Qr6TZuvfUtCxtR%2F07aSEmWyuXilcV0AH84ioJQJLTuPGV3M%3D&amp;X-Amz-Signature=3e2c6a06361b054ca371044f9bb2a9ad89c5e032a89fbe3cda22d463f497d0c3&amp;X-Amz-SignedHeaders=host\"></iframe><p class=\"ql-direction-rtl ql-align-right\"><br></p>"
+      },
+      "narrationText": {
+        "en": "The importance of respiration to living organisms: In cellular respiration the cell breaks down food molecules in order to release the energy which is used by the cell to perform its vital functions and activities.",
+        "ar": "لماذا التنفس. أهمية التنفس للكائنات الحية: في التنفس الخلوي ، تكسر الخلية جزيئات الطعام من أجل إطلاق الطاقة التي تستخدمها الخلية لأداء وظائفها وأنشطتها الحيوية."
+      },
+      "keywords": [
+        {
+          "word": "cellular respiration",
+          "definition": "",
+          "abbreviation": "",
+          "objId": "",
+          "sections": [100502329152]
+        }
+      ],
+      "audio": {
+        "en": "audioFiles/why_respiration_en.mp3",
+        "ar": "eBooks/azharengineering2020/ut1/61645f97fccd34a44373699b/audioFiles/why_respiration_ar.mp3"
+      }
+    },
+    {
+      "name": "cellular respiration",
+      "id": 109824618867,
+      "depth": 0,
+      "expanded": true,
+      "interactiveObject": {
+        "url": "https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/energy_613e4cc16682baedcc2e735a.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA4ZSSFNBKOGRXFB43%2F20230621%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230621T132009Z&X-Amz-Expires=10000&X-Amz-Security-Token=FwoGZXIvYXdzEHcaDHLmFJw7uRUWOr9y7yK2AUHaco4zIM42NnvtgI0nim%2BBBNoLj5QqzriNqoi521yqM9f%2Fw96wcEit1J2v8LrohJWM%2BZ5XbP7igQjyxlx3I1yv%2BgXnviKUEUbhl0bPbfwt%2F%2BIC%2BOd71N6F3xn%2Bp%2FrDWtuDkKVUJG%2BhKWbVbi9E4WdqzaqKdC4yDKR7MBmldC81%2FkqrAK8%2BYxIH0XQRNpTF8ZRPsXjxOn0Q0Ct4eoN7iB4L9SOBQ6Z6KbyMcmUL5afHRr4SpJsVKInyy6QGMi2YJiRJQoklvFgzLC3%2Bguum9yti1n162tDlqOHitgGCY%2BJa5evMtzqMxsEvxqc%3D&X-Amz-Signature=d63f76494f367074548fb841fd7f7a89184910676fa73e84e858d0a24d69a4e6&X-Amz-SignedHeaders=host"
+      },
+      "text": {
+        "en": "<p><strong>The importance of respiration to living organisms:</strong></p><p><br></p><p>In cellular respiration the cell breaks down food molecules in order to release the <span style=\"background-color: rgb(255, 194, 102);\">energy</span> which is used by the cell to perform its vital functions and activities.</p><p><br></p><p><br></p>",
+        "ar": "<h1 class=\"ql-direction-rtl ql-align-right\">التنفس الخلوي</h1><p class=\"ql-direction-rtl ql-align-right\"><strong>أهمية التنفس للكائنات الحية:</strong></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\">في التنفس الخلوي ، تكسر الخلية جزيئات الطعام من أجل إطلاق <span style=\"background-color: rgb(255, 194, 102);\">الطاقة</span> التي تستخدمها الخلية لأداء وظائفها وأنشطتها الحيوية.</p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/energy_613e4cc16682baedcc2e735a_ar.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIA4ZSSFNBKP5YDGLFR%2F20220301%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220301T170032Z&amp;X-Amz-Expires=10000&amp;X-Amz-Security-Token=FwoGZXIvYXdzEML%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDI0E8SeCjl40U98yRSK2AVXE7z6AMnCQPTecflVc0K6QmfCFVQ%2Fi7f7%2FbFuppClviy5j73j1q0VQ7QsFr2nK%2B9h%2FThr2Cdghz8ttDlvctxWXKmEhvhxd5ppFmo81LKCG4pypOnejIIpff2aYoawTFU98eNvbmCfTEfX5%2F9ooviBJ%2BwdznBZ84j2fE6S6TBGuJ4FFEHyomO%2FhWT53sxjRC0k%2BXxJIGc7lPbFfU75ac9xZV0egbscZLRztJ80bEVyGJ2CkCnQvKLCi%2BZAGMi0c8dqUKpN3GNklnsVZ%2B1jiCxtqNWWC48AGc6mqng7QMQZhaJKAc%2FaiygjzUzw%3D&amp;X-Amz-Signature=b6a92600e84622837cbc48595378c1f1b6486f4165e8d950e45f553326005ceb&amp;X-Amz-SignedHeaders=host\"></iframe><p class=\"ql-direction-rtl ql-align-right\"><br></p>"
+      },
+      "narrationText": {
+        "en": "The importance of respiration to living organisms: In cellular respiration the cell breaks down food molecules in order to release the energy which is used by the cell to perform its vital functions and activities.",
+        "ar": "التنفس الخلوي .أهمية التنفس للكائنات الحية: في التنفس الخلوي ، تكسر الخلية جزيئات الطعام من أجل إطلاق الطاقة التي تستخدمها الخلية لأداء وظائفها وأنشطتها الحيوية."
+      },
+      "keywords": [
+        {
+          "word": "cellular respiration",
+          "sectionId": 109824618867,
+          "definition": "",
+          "abbreviation": "",
+          "objId": ""
+        }
+      ],
+      "audio": {
+        "en": "audioFiles/cellular_respiration_en.mp3",
+        "ar": "eBooks/azharengineering2020/ut1/61645f97fccd34a44373699b/audioFiles/cellular_respiration_ar.mp3"
+      }
+    },
+    {
+      "name": "Glucose oxidization stages",
+      "id": 120057072545,
+      "depth": 2,
+      "expanded": true,
+      "interactiveObject": {
+        "url":"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/METOCONDERIA_61321a7c65e96e623f0691cd.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA4ZSSFNBKBPWH67ER%2F20230707%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230707T133034Z&X-Amz-Expires=10000&X-Amz-Security-Token=FwoGZXIvYXdzEPf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDLq5NYbavvKHvOxs7SK2Abk84jcICDfpnLIoq1%2BM59VG%2Fnm2pH9D8ZuLOHbUfRBjZXw%2BZHwaddgNn%2FKzHzpuUzQwrL1l%2B8zejb6830gYe0p1mCxZdiFHDJYxExBSiAi7nCnPkmiKM%2Far0eceXRRaO7otcF77qT0Dlrup%2BEPn8tHdaicmknVvoCmn4m4NHlC3JSoFCxsm%2BF50Cu0j8oS7WdWRHuVcpXYzuRWQXpeJyww61FjI%2BxCTDLWDdQzq5PslPgkd3jZCKPqmoKUGMi3yS5hHg8uWua4o%2FsNXOHOM%2B9VjtxhBLTZpqKqVgOAYh7GnHy3KkdCmi4Y1Yw4%3D&X-Amz-Signature=1692c1bb11aa44491e971be09dc0fe0f81a545447d02e6e8dee2feb0e9d985f7&X-Amz-SignedHeaders=host"
+      },
+      "text": {
+        "en": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(240, 102, 102);\">Oxidation of glucose molecule takes place and three major estates&nbsp;</strong></p><p class=\"ql-align-justify\">A) glycolysis</p><p class=\"ql-align-justify\">B) Krebs cycle</p><p class=\"ql-align-justify\">C) Electron transport</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Glycolysis occurs in the <span style=\"background-color: rgb(102, 185, 102);\">cytosole</span> of the cell while the two steps of Krebs cycle and electron transport occur inside the <span style=\"background-color: rgb(204, 232, 204);\">mitochondria</span> where respiratory enzymes, water, phosphate groups, co-enzymes, and electron carrier molecules or cytochromes (carried electron at different levels) are situated.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">In the breaking down of glucose and Krebs cycle, hydrogen atoms are removed from the carbon skeleton of glucose molecule to pass to the co-enzymes which act as hydrogen carriers. The most important of them are NAD<sup>+</sup> which is reduced into NADH and FAD which is reduced into FADH<sub>2.</sub></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p>",
+        "ar": "<h1 class=\"ql-direction-rtl ql-align-right\">مراحل أكسدة الجلوكوز</h1><p class=\"ql-direction-rtl ql-align-right\"><strong style=\"color: rgb(240, 102, 102);\">يحدث أكسدة جزيء الجلوكوز وثلاث عقارات رئيسية</strong></p><p class=\"ql-direction-rtl ql-align-right\">أ) تحلل السكر</p><p class=\"ql-direction-rtl ql-align-right\">ب) دورة كريبس</p><p class=\"ql-direction-rtl ql-align-right\">ج) النقل الإلكتروني</p><p class=\"ql-direction-rtl ql-align-right\"><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/METOCONDERIA_61321a7c65e96e623f0691cd_ar.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIA4ZSSFNBKOHOAZ3NF%2F20220301%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220301T170115Z&amp;X-Amz-Expires=10000&amp;X-Amz-Security-Token=FwoGZXIvYXdzEML%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDJUglgQb18VDsyhqQyK2AaknPMz27TYZ8AvqGFWT5r7QQ%2F8qry%2BXCPAbX59Eawaiv07TOwobZ2qJaJAUxHaH22oYDoJmc1A%2FA7cktFBMGuNeEojYvoIDlReaSxPDOcmjsvSerQDP8onMVBns%2BCRxn3VNZJmmOh%2FrV0JnaXd6cBcXSQ3PqmKwVyl%2FTDd8Llvldd09wAoVNWQg3%2BI7PDRir4zh3JiHyMOnm98IqHMfrl%2B%2BlJ3C40f8khU%2FOBXyteOwv9ECbWBRKNui%2BZAGMi2l%2BS0tfkUP8XdtdBm2gmrDb73xuSj%2BMZlAPNc3qiRvEwCP74YsCnu1fYM%2F0Q8%3D&amp;X-Amz-Signature=51df83729d9626f053df712d1a183dc5876eaba22d4059f77eea4806e60dea76&amp;X-Amz-SignedHeaders=host\"></iframe><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\">يحدث تحلل السكر في <span style=\"background-color: rgb(102, 185, 102);\">العصارة</span> الخلوية للخلية بينما تحدث خطوتان من دورة كريبس ونقل الإلكترون داخل <span style=\"background-color: rgb(204, 232, 204);\">الميتوكوندريا</span> حيث توجد إنزيمات الجهاز التنفسي والماء ومجموعات الفوسفات والإنزيمات المشتركة وجزيئات حامل الإلكترون أو السيتوكرومات (التي تحمل الإلكترون على مستويات مختلفة) .</p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\">في تفكك دورة الجلوكوز وكريبس ، تتم إزالة ذرات الهيدروجين من الهيكل الكربوني لجزيء الجلوكوز لتمريرها إلى الإنزيمات المشتركة التي تعمل كناقلات للهيدروجين. أهمها NAD <sup>+</sup> الذي يتم اختزاله إلى NADH و FAD والذي يتم اختزاله إلى FADH <sub>2.</sub></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p>"
+      },
+      "narrationText": {
+        "en": " Oxidation of glucose molecule takes place and three major estates&nbsp; A) glycolysis. B) Krebs cycle. C) Electron transport. Glycolysis occurs in the cytosole of the cell while the two steps of Krebs cycle and electron transport occur inside the mitochondria where respiratory enzymes, water, phosphate groups, co-enzymes, and electron carrier molecules or cytochromes (carried electron at different levels) are situated. In the breaking down of glucose and Krebs cycle, hydrogen atoms are removed from the carbon skeleton of glucose molecule to pass to the co-enzymes which act as hydrogen carriers. The most important of them are NAD+ which is reduced into NADH and FAD which is reduced into FADH2.",
+        "ar": " مراحل أكسدة الجلوكوز:.  يحدث أكسدة جزيء الجلوكوز وثلاث عقارات رئيسية . أ) تحلل السكر. ب) دورة كريبس. ج) النقل الإلكتروني. يحدث تحلل السكر في العصارة الخلوية للخلية بينما تحدث خطوتان من دورة كريبس ونقل الإلكترون داخل الميتوكوندريا حيث توجد إنزيمات الجهاز التنفسي والماء ومجموعات الفوسفات والإنزيمات المشتركة وجزيئات حامل الإلكترون أو السيتوكرومات (التي تحمل الإلكترون بمستويات مختلفة) . في تفكك دورة الجلوكوز وكريبس ، تتم إزالة ذرات الهيدروجين من الهيكل الكربوني لجزيء الجلوكوز لتمريرها إلى الإنزيمات المشتركة التي تعمل كناقلات للهيدروجين. أهمها NAD + الذي يتم اختزاله إلى NADH و FAD والذي يتم تقليله إلى FADH2."
+      },
+      "parentId": 100374357999,
+      "keywords": [
+        {
+          "word": "glycolysis",
+          "definition": "",
+          "abbreviation": "",
+          "objId": "",
+          "sections": [120057072545]
+        },
+        {
+          "word": "krebs cycle",
+          "definition": "",
+          "abbreviation": "",
+          "objId": "",
+          "sections": [120057072545]
+        },
+        {
+          "word": "respiratory enzymes",
+          "definition": "",
+          "abbreviation": "",
+          "objId": "",
+          "sections": [120057072545]
+        },
+        {
+          "word": "cytosole",
+          "definition": "",
+          "abbreviation": "",
+          "objId": "",
+          "sections": [120057072545]
+        },
+        {
+          "word": "mitochondria",
+          "definition": "",
+          "abbreviation": "",
+          "objId": "",
+          "sections": [120057072545]
+        },
+        {
+          "word": "cytochromes",
+          "definition": "",
+          "abbreviation": "",
+          "objId": "",
+          "sections": [120057072545]
+        }
+      ],
+      "audio": {
+        "en": "audioFiles/Glucose_oxidization_stages_en.mp3",
+        "ar": "eBooks/azharengineering2020/ut1/61645f97fccd34a44373699b/audioFiles/Glucose_oxidization_stages_ar.mp3"
+      }
+    },
+    {
+      "name": "Glycolysis",
+      "id": 107202764562,
+      "depth": 3,
+      "expanded": true,
+      "interactiveObject": {
+        "url": "data:image/jpeg;base64,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AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/2Q=="
+      },
+      "text": {
+        "en": "<p class=\"ql-align-justify\"><strong style=\"font-size: 24px;\">A) Glycolysis</strong></p><p class=\"ql-align-justify\">Glycolysis takes place in both aerobic and anaerobic respiration produce energy in which <span style=\"background-color: rgb(204, 232, 204);\">one molecule of glucose breakdown forming two molecules of pyruvic acid (3-carbons)</span> passing through a group of reactions through which glucose is converted into glucose (6-phosphate) then fructose (6-phosphate) then fructose 1-6 diphosphate which forms two molecules of PGAL phosphoglyceraldehyde</p><p class=\"ql-align-justify\">to be oxidized in two pyruvic and reduce two molecules of NAD<sup>+</sup> into NADH and two molecules of ATP are produced in the cytosole of the cell.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><span style=\"font-size: 20px;\">All of these reactions are occurred in the absence or lack of oxygen therefore, these reactions are called anaerobic respiration.</span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><span style=\"font-size: 20px;\">The energy resulted is not enough to perform all vital activities of living organism, therefore, in the presence of oxygen, pyruvic acid passes into the mitochondria to produce more energy. This takes place in two stage, Krebs cycle and electron transport.</span></p><p class=\"ql-align-justify\"><br></p>",
+        "ar": "<h1 class=\"ql-direction-rtl ql-align-right\">تحلل السكر</h1><p class=\"ql-direction-rtl ql-align-right\"><strong style=\"font-size: 24px;\">أ) </strong><a href=\"objective_1:0\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 24px; background-color: rgb(255, 255, 0);\"><strong><u>تحلل السكر</u></strong></a></p><p class=\"ql-direction-rtl ql-align-right\"><a href=\"objective_1:0\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 0);\"><u>يحدث تحلل الجلوكوز في كل من التنفس الهوائي واللاهوائي لإنتاج الطاقة التي ينتج فيها جزيء واحد من تحلل الجلوكوز مكونًا جزيئين من حمض البيروفيك (3 كربون) يمر عبر مجموعة من التفاعلات التي يتم من خلالها تحويل الجلوكوز إلى جلوكوز (6 فوسفات) ثم الفركتوز ( 6-فوسفات) ثم الفركتوز 1-6 ثنائي الفوسفات الذي يشكل جزيئين من PGAL phosphoglyceraldehyde</u></a></p><p class=\"ql-direction-rtl ql-align-right\"><a href=\"objective_1:0\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 0);\"><u>يتأكسد في اثنين من البيروفيك ويختزل جزيئين من NAD </u><sup><u>+</u></sup><u> إلى NADH ويتم إنتاج جزيئين من ATP في العصارة الخلوية للخلية.</u></a></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/Glyco_613627cf65e96e2d250691df_ar.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIA4ZSSFNBKPORTKOE4%2F20220301%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220301T170428Z&amp;X-Amz-Expires=10000&amp;X-Amz-Security-Token=FwoGZXIvYXdzEMP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDJPZYrHcY6V%2BnhwI4iK2AdfH0IyKZMLY%2F4qWLaq1dR5bvGyQQPuM9R%2FfnUwkYiPVv44cIZ5W6vXTXbB40GiyaZEK7M3W%2FC9uOdTcSRbTqd%2FWjoQtF8CXkQKhSICwi5IKMCUM1FY6v0N%2FYgHiB%2FGrqCbqnL0om%2FRgDxihY%2FvlUBQA0trF2OBd2jJomIZGAy2hYffff4caWvkqQ7D8ikeRtwvsvH0lJ%2Bq4VeNi%2Fn04wIqQF5QxmyyEcDCHhZV8cvY6S88TqItsKJyk%2BZAGMi1%2B46xtlbs737uB4v8a8bbkx50V7sE9Zij5MJoehtsQpqH38jWv2SrLoug73xQ%3D&amp;X-Amz-Signature=a86170fa089deff334024593f2ce954ac861266ef17bd768a1f4e55734732107&amp;X-Amz-SignedHeaders=host\"></iframe><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><a href=\"objective_1:0\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 20px; background-color: rgb(255, 255, 0);\"><u>كل هذه التفاعلات تحدث في غياب أو نقص الأكسجين لذلك تسمى هذه</u></a><span style=\"font-size: 20px;\"> التفاعلات التنفس اللاهوائي.</span></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><span style=\"font-size: 20px;\">الطاقة الناتجة ليست كافية لأداء جميع الأنشطة الحيوية للكائن الحي ، لذلك في وجود الأكسجين ، يمر حمض البيروفيك إلى الميتوكوندريا لإنتاج المزيد من الطاقة. يحدث هذا على مرحلتين ، دورة كريبس ونقل الإلكترون.</span></p><p class=\"ql-direction-rtl ql-align-right\"><br></p>"
+      },
+      "narrationText": {
+        "en": "A) Glycolysis. Glycolysis takes place in both aerobic and anaerobic respiration produce energy in which one molecule of glucose breakdown forming two molecules of pyruvic acid (3-carbons) passing through a group of reactions through which glucose is converted into glucose (6-phosphate) then fructose (6-phosphate) then fructose 1-6 diphosphate which forms two molecules of PGAL phosphoglyceraldehydeto be oxidized in two pyruvic and reduce two molecules of NAD+ into NADH and two molecules of ATP are produced in the cytosole of the cell. All of these reactions are occurred in the absence or lack of oxygen therefore, these reactions are called anaerobic respiration. The energy resulted is not enough to perform all vital activities of living organism, therefore, in the presence of oxygen, pyruvic acid passes into the mitochondria to produce more energy. This takes place in two stage, Krebs cycle and electron transport.",
+        "ar": " أ) تحلل السكر. يحدث تحلل الجلوكوز في كل من التنفس الهوائي واللاهوائي لإنتاج الطاقة التي ينتج فيها جزيء واحد من تحلل الجلوكوز مكونًا جزيئين من حمض البيروفيك (3 كربون) يمر عبر مجموعة من التفاعلات التي يتم من خلالها تحويل الجلوكوز إلى جلوكوز (6 فوسفات) ثم الفركتوز ( 6-فوسفات) ثم الفركتوز 1-6 ثنائي الفوسفات الذي يشكل جزيئين من   (PGAL phosphoglyceraldehyde)  يتأكسد في اثنين من البيروفيك ويختزل جزيئين من NAD + إلى NADH ويتم إنتاج جزيئين من ATP في العصارة الخلوية للخلية.         كل هذه التفاعلات تحدث في غياب أو نقص الأكسجين لذلك تسمى هذه التفاعلات التنفس اللاهوائي.الطاقة الناتجة ليست كافية لأداء جميع الأنشطة الحيوية للكائن الحي ، لذلك في وجود الأكسجين ، يمر حمض البيروفيك إلى الميتوكوندريا لإنتاج المزيد من الطاقة. يحدث هذا على مرحلتين ، دورة كريبس ونقل الإلكترون."
+      },
+      "parentId": 120057072545,
+      "keywords": [
+        {
+          "word": "glycolysis",
+          "sectionId": 107202764562,
+          "definition": "",
+          "abbreviation": "",
+          "objId": ""
+        },
+        {
+          "word": "aerobic respiration",
+          "definition": "",
+          "abbreviation": "",
+          "objId": "",
+          "sections": [107202764562]
+        },
+        {
+          "word": "anaerobic respiration",
+          "definition": "",
+          "abbreviation": "",
+          "objId": "",
+          "sections": [107202764562]
+        },
+        {
+          "word": "ATP",
+          "definition": "",
+          "abbreviation": "",
+          "objId": "",
+          "sections": [107202764562]
+        },
+        {
+          "word": "cytosole",
+          "sectionId": 107202764562,
+          "definition": "",
+          "abbreviation": "",
+          "objId": ""
+        },
+        {
+          "word": "mitochondria",
+          "sectionId": 107202764562,
+          "definition": "",
+          "abbreviation": "",
+          "objId": ""
+        },
+        {
+          "word": "krebs cycle",
+          "sectionId": 107202764562,
+          "definition": "",
+          "abbreviation": "",
+          "objId": ""
+        }
+      ],
+      "audio": {
+        "en": "audioFiles/Glycolysis_en.mp3",
+        "ar": "eBooks/azharengineering2020/ut1/61645f97fccd34a44373699b/audioFiles/Glycolysis_ar.mp3"
+      }
+    },
+    {
+      "name": "Krebs cycle",
+      "id": 73759552509,
+      "depth": 3,
+      "expanded": true,
+      "interactiveObject": {
+        "url": "https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/Krebs_Interactive_video_613caa526682ba1b322e7350.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA4ZSSFNBKH7TZU47O%2F20230621%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230621T133022Z&X-Amz-Expires=10000&X-Amz-Security-Token=FwoGZXIvYXdzEHcaDFcaSiZzxHRSDXsY3CK2AR24EDc%2FdXWTIpphaWhiPsbxMnDIQpdz9ztYRzexto2k31KbeAFO88TGqs0PfqoylvYBKdgq4s7G6Ryyl8LRPs%2BzHXIX%2FFnAnr2GaNqpX7KczkGT6P8A5wAjrnuM74dinR%2BkfSnefvUcQmTQSOhXyBv6yftXqa5q%2B9R415wLAS8f0HGoPR2Ky0W8TVxTrFCZgl2vi86DJwCKxEzkDuQUu0jTNcgSh42iM5aKoDU1%2FcRGni84sKW9KO72y6QGMi2HlA68lDSi4jlnKBDK9BSlZTgzASXDtN71N6AUuLhRAnRB%2FZjo3jV1gj2XpRU%3D&X-Amz-Signature=3a5e6eca3885b5271477d228801c8046a2b146e9459fad5aa217f63e49fc2ce2&X-Amz-SignedHeaders=host"
+      },
+      "text": {
+        "en": "<p><strong>B) Krebs cycle</strong></p><p class=\"ql-align-justify\">1.&nbsp;&nbsp;&nbsp;Each molecule of pyruvic acid is oxidized in the presence of co-enzyme (A) into acetyl co-A, in this reaction to molecules of NADH and two molecules of CO2 are produced. Also acetyl groups from breaking down fat molecules or protein molecules can combine with co-A enzyme to join to Krebs cycle</p><p class=\"ql-align-justify\">2.&nbsp;&nbsp;&nbsp;Each molecule of acetyl co-A joins Krebs cycle where its co-A a splits of to repeat its role, at the same time acetyl group (2C) combines with a compound (4C) oxaloacetic acid to form a compound (6C) citric acid which passes through three intermediate compounds. Its starts by ketoglutaric acid then succinic acid then malic acid and at the end of the reactions citric acid is formed again, therefore, Krebs cycle is called the citric acid cycle.</p><p class=\"ql-align-justify\">3.&nbsp;&nbsp;&nbsp;Two molecules of CO<sub>2</sub> are released and one ATP molecule with NADH molecules, one FADh<sub>2</sub> molecules are produced in each cycle (Krebs cycle is repeated twice, once for each molecule of acetyl group)</p><p class=\"ql-align-justify\">It is clear that Krebs cycle doesn't need oxygen sensor old electrons and protons are removed during oxidation of carbon atoms and received by NAD<sup>+</sup> and FAD molecules.</p><p><br></p><p><br></p><p><span style=\"font-size: 24px;\">﻿Activity:</span></p>",
+        "ar": "<h1 class=\"ql-direction-rtl ql-align-right\">دورة كريبس</h1><p class=\"ql-direction-rtl ql-align-right\"><strong>ب) دورة كريبس</strong></p><p class=\"ql-direction-rtl ql-align-right\">1. يتأكسد كل جزيء من حمض البيروفيك في وجود الإنزيم المساعد (A) إلى أسيتيل co-A ، في هذا التفاعل مع جزيئات NADH ويتم إنتاج جزيئين من ثاني أكسيد الكربون. يمكن أيضًا أن تتحد مجموعات الأسيتيل الناتجة عن تكسير جزيئات الدهون أو جزيئات البروتين مع إنزيم co-A للانضمام إلى دورة كريبس</p><p class=\"ql-direction-rtl ql-align-right\">2. ينضم كل جزيء من الأسيتيل co-A إلى دورة كريبس حيث ينقسم مركب أسيتيل A لتكرار دوره ، وفي نفس الوقت تتحد مجموعة الأسيتيل (2 ج) مع مركب (4 ج) وحمض أوكسالوسيتيك لتكوين مركب (6 ج) حامض الستريك الذي يمر عبر ثلاث مركبات وسيطة. يبدأ بحمض الكيتوجلوتاريك ثم حمض السكسينيك ثم حمض الماليك وفي نهاية التفاعلات يتشكل حامض الستريك مرة أخرى ، لذلك تسمى دورة كريبس دورة حامض الستريك.</p><p class=\"ql-direction-rtl ql-align-right\">3. يتم إطلاق جزيئين من ثاني أكسيد <sub>الكربون</sub> وجزيء ATP مع جزيئات NADH ، ويتم إنتاج جزيء واحد من FADh <sub>2</sub> في كل دورة (يتم تكرار دورة كريبس مرتين ، مرة لكل جزيء من مجموعة الأسيتيل)</p><p class=\"ql-direction-rtl ql-align-right\">من الواضح أن دورة كريبس لا تحتاج إلى مستشعر الأكسجين تتم إزالة الإلكترونات القديمة والبروتونات أثناء أكسدة ذرات الكربون واستقبالها بواسطة جزيئات NAD <sup>+</sup> و FAD.</p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><span style=\"font-size: 24px;\">النشاط:</span></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/Krebs_Interactive_video_613caa526682ba1b322e7350_ar.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIA4ZSSFNBKGP2EDBU4%2F20220301%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220301T170451Z&amp;X-Amz-Expires=10000&amp;X-Amz-Security-Token=FwoGZXIvYXdzEMP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDPFdJOlieoTQu%2BLIqSK2AbyU67B0RFYV1Dyxk5gbx6reL4oK%2F3zkuWzM%2F0Z6hfiJvtYU6cfCEb%2FR0%2FV%2B6QuGfVi4C967oLFPmBV3ducknz1xWnJaN3vla1KB4%2FmVc3F%2FvlzS%2FyAR0Uz4GHFFMR4ye7KYuiIRaVKJlPWQMqcvDr8zwOyfofrv8YTO2BLhGtwmfKqkv0%2Fh5U1wUhqJWBwcpTQhg%2FB7ZYpg9J46NumWTrRLFtm7moNO4vH8V7Zm0Y79sTSY5kz3KLOk%2BZAGMi3e3M%2FFe2VkyDpzSODVO5J7icBwgpwB1z97eWgcaziRsguxwO5hZXX6MOUGltA%3D&amp;X-Amz-Signature=6f65a8bfc7c234a9a7f81a5f83f82897ffa90f69b7792cab290cae3c9fe5e79a&amp;X-Amz-SignedHeaders=host\"></iframe><p class=\"ql-direction-rtl ql-align-right\"><br></p>"
+      },
+      "narrationText": {
+        "en": " B) Krebs cycle. 1. Each molecule of pyruvic acid is oxidized in the presence of co-enzyme (A) into acetyl co-A, in this reaction to molecules of NADH and two molecules of CO2 are produced. Also acetyl groups from breaking down fat molecules or protein molecules can combine with co-A enzyme to join to Krebs cycle. 2. Each molecule of acetyl co-A joins Krebs cycle where its co-A a splits of to repeat its role, at the same time acetyl group (2C) combines with a compound (4C) oxaloacetic acid to form a compound (6C) citric acid which passes through three intermediate compounds. Its starts by ketoglutaric acid then succinic acid then malic acid and at the end of the reactions citric acid is formed again, therefore, Krebs cycle is called the citric acid cycle. 3. Two molecules of CO2 are released and one ATP molecule with NADH molecules, one FADh2 molecules are produced in each cycle (Krebs cycle is repeated twice, once for each molecule of acetyl group). It is clear that Krebs cycle doesn't need oxygen sensor old electrons and protons are removed during oxidation of carbon atoms and received by NAD+ and FAD molecules.",
+        "ar": " .دورة كريبس ب) دورة كريبس.  1. يتأكسد كل جزيء من حمض البيروفيك في وجود الإنزيم المساعد (A) إلى أسيتيل co-A ، في هذا التفاعل مع جزيئات NADH ويتم إنتاج جزيئين من ثاني أكسيد الكربون. يمكن أيضًا أن تتحد مجموعات الأسيتيل الناتجة عن تكسير جزيئات الدهون أو جزيئات البروتين مع إنزيم co-A للانضمام إلى دورة كريبس 2. ينضم كل جزيء من الأسيتيل co-A إلى دورة كريبس حيث ينقسم مركب أسيتيل A لتكرار دوره ، وفي نفس الوقت تتحد مجموعة الأسيتيل (2 ج) مع مركب (4 ج) وحمض أوكسالوسيتيك لتكوين مركب (6 ج) حامض الستريك الذي يمر عبر ثلاث مركبات وسيطة. يبدأ بحمض الكيتوجلوتاريك ثم حمض السكسينيك ثم حمض الماليك وفي نهاية التفاعلات يتشكل حامض الستريك مرة أخرى ، لذلك تسمى دورة كريبس دورة حامض الستريك. 3. يتم إطلاق جزيئين من ثاني أكسيد <sub>الكربون</sub> وجزيء ATP مع جزيئات NADH ، ويتم إنتاج جزيء واحد من FADh <sub>2</sub> في كل دورة (يتم تكرار دورة كريبس مرتين ، مرة لكل جزيء من مجموعة الأسيتيلمن الواضح أن دورة كريبس لا تحتاج إلى مستشعر الأكسجين تتم إزالة الإلكترونات القديمة والبروتونات أثناء أكسدة ذرات الكربون واستقبالها بواسطة جزيئات NAD+ و FAD."
+      },
+      "parentId": 120057072545,
+      "keywords": [
+        {
+          "word": "krebs cycle",
+          "sectionId": 73759552509,
+          "definition": "",
+          "abbreviation": "",
+          "objId": ""
+        }
+      ],
+      "audio": {
+        "en": "audioFiles/Krebs_cycle_en.mp3",
+        "ar": "eBooks/azharengineering2020/ut1/61645f97fccd34a44373699b/audioFiles/Krebs_cycle_ar.mp3"
+      }
+    },
+    {
+      "name": "Electron transport",
+      "id": 93415780377,
+      "depth": 3,
+      "parentId": 120057072545,
+      "interactiveObject": {
+        "url": "https://drive.google.com/file/d/18iMleiGejlVm8RG1vJqd2fmdyPyQjE35/view?usp=sharing"
+      },
+      "text": {
+        "en": "<p class=\"ql-align-justify\"><strong>C) Electron transport chain</strong></p><p class=\"ql-align-justify\">1.&nbsp;&nbsp;&nbsp;&nbsp;At the terminal stage of aerobic respiration and by the end of Krebs cycle, hydrogen and high-energy electrons carried out by NAD<sup>+</sup> and FAD are transported over certain sequence of co-enzymes called cytochromes (electron carriers) present inside the inner membrane of mitochondria. They carry electron at different energy levels. These high energy electrons are passed from one molecule of cytochromes to another, and during the that energy is released to form ATP from ADP plus a phosphate group. This process is called oxidative phosphorylation</p><p class=\"ql-align-justify\">2.&nbsp;&nbsp;&nbsp;Oxygen is considered the last receptor in the electron transport chain where the two electrons combine with two H<sup>+</sup> and one oxygen atom to form water. In the electron transport chain, each NADH molecule produces 3 molecules of ATP while each FADH<sub>2</sub> molecule produces two molecules of ATP)</p><p class=\"ql-align-justify\">&nbsp;3.&nbsp;&nbsp;&nbsp;Accordingly in aerobic respiration each molecule of glucose produces 38 ATP two of them are produced in the cytoplasm of the cell during glycolysis and 36 molecules are produced inside the mitochondria</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">EKB video:</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-center\"><video controls><source src=\"./Glycolysis.mp4\"></video></p>",
+        "ar": "<h1 class=\"ql-direction-rtl ql-align-right\">نقل الإلكترون</h1><p class=\"ql-direction-rtl ql-align-right\"><strong>ج) سلسلة نقل الإلكترون</strong></p><p class=\"ql-direction-rtl ql-align-right\">1. في المرحلة النهائية من التنفس الهوائي وبحلول نهاية دورة كريبس ، يتم نقل الهيدروجين والإلكترونات عالية الطاقة المنفذة بواسطة NAD <sup>+</sup> و FAD عبر تسلسل معين من الإنزيمات المشتركة تسمى cytochromes (ناقلات الإلكترون) الموجودة داخل الغشاء الداخلي الميتوكوندريا. يحملون الإلكترون عند مستويات طاقة مختلفة. يتم تمرير هذه الإلكترونات عالية الطاقة من جزيء واحد من السيتوكرومات إلى آخر ، وخلال تلك الطاقة يتم إطلاقها لتكوين ATP من ADP بالإضافة إلى مجموعة الفوسفات. هذه العملية تسمى الفسفرة المؤكسدة</p><p class=\"ql-direction-rtl ql-align-right\">2. يعتبر الأكسجين هو المستقبل الأخير في سلسلة نقل الإلكترون حيث يتحد الإلكترونان مع ذرتين من H <sup>+</sup> وذرة أكسجين واحدة لتكوين الماء. في سلسلة نقل الإلكترون ، ينتج كل جزيء NADH 3 جزيئات من ATP بينما ينتج كل جزيء FADH <sub>2</sub> جزيئين من ATP)</p><p class=\"ql-direction-rtl ql-align-right\">3. وفقًا للتنفس الهوائي ، ينتج كل جزيء من الجلوكوز 38 جزيء ATP يتم إنتاج اثنين منهم في سيتوبلازم الخلية أثناء تحلل الجلوكوز ويتم إنتاج 36 جزيء داخل الميتوكوندريا</p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\">فيديو EKB:</p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right ql-indent-5\"><a href=\"https://player.eduedges.com?MoId=619c19b8cacb4f019387c020\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/screenshots/619c19b8cacb4f019387c020_screenshot.png\"></a></p>"
+      },
+      "narrationText": {
+        "en": " C) Electron transport chain. 1. At the terminal stage of aerobic respiration and by the end of Krebs cycle, hydrogen and high-energy electrons carried out by NAD<sup>+</sup> and FAD are transported over certain sequence of co-enzymes called cytochromes (electron carriers) present inside the inner membrane of mitochondria. They carry electron at different energy levels. These high energy electrons are passed from one molecule of cytochromes to another, and during the that energy is released to form ATP from ADP plus a phosphate group. This process is called oxidative phosphorylation. 2. Oxygen is considered the last receptor in the electron transport chain where the two electrons combine with two H+ and one oxygen atom to form water. In the electron transport chain, each NADH molecule produces 3 molecules of ATP while each FADH2 molecule produces two molecules of ATP). 3. &nbsp;Accordingly in aerobic respiration each molecule of glucose produces 38 ATP two of them are produced in the cytoplasm of the cell during glycolysis and 36 molecules are produced inside the mitochondria. EKB video:",
+        "ar": " نقل الإلكترون ج) سلسلة نقل الإلكترون 1. في المرحلة النهائية من التنفس الهوائي وبحلول نهاية دورة كريبس ، يتم نقل الهيدروجين والإلكترونات عالية الطاقة المنفذة بواسطة NAD + و FAD عبر تسلسل معين من الإنزيمات المشتركة تسمى cytochromes (ناقلات الإلكترون) الموجودة داخل الغشاء الداخلي الميتوكوندريا. يحملون الإلكترون عند مستويات طاقة مختلفة. يتم تمرير هذه الإلكترونات عالية الطاقة من جزيء واحد من السيتوكرومات إلى آخر ، وخلال تلك الطاقة يتم إطلاقها لتكوين ATP من ADP بالإضافة إلى مجموعة الفوسفات. هذه العملية تسمى الفسفرة المؤكسدة 2. يعتبر الأكسجين هو المستقبل الأخير في سلسلة نقل الإلكترون حيث يتحد الإلكترونان مع ذرتين من H+ وذرة أكسجين واحدة لتكوين الماء. في سلسلة نقل الإلكترون ، ينتج كل جزيء NADH 3 جزيئات من ATP بينما ينتج كل جزيء FADH2 جزيئين من ATP) 3. وفقًا للتنفس الهوائي ، ينتج كل جزيء من الجلوكوز 38 جزيء ATP يتم إنتاج اثنين منهم في سيتوبلازم الخلية أثناء تحلل الجلوكوز ويتم إنتاج 36 جزيء داخل الميتوكوندريا فيديو EKB: "
+      },
+      "keywords": [
+        {
+          "word": "phosphate group",
+          "definition": "",
+          "abbreviation": "",
+          "objId": "",
+          "sections": [120057072545, 93415780377],
+          "sectionId": 93415780377
+        }
+      ],
+      "audio": {
+        "en": "audioFiles/Electron_transport_en.mp3",
+        "ar": "eBooks/azharengineering2020/ut1/61645f97fccd34a44373699b/audioFiles/Electron_transport_ar.mp3"
+      }
+    },
+    {
+      "name": "anaeropic respiration",
+      "id": 121450865971,
+      "depth": 1,
+      "expanded": true,
+      "parentId": 109824618867,
+      "interactiveObject": {
+        "url": "https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/Aerobic_and_Anaerobic_613ce39c6682ba42ce2e7356.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA4ZSSFNBKICQSCOPG%2F20230707%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230707T133139Z&X-Amz-Expires=10000&X-Amz-Security-Token=FwoGZXIvYXdzEPf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDLxivnV6cdDTKgDTPyK2AdO4Nv1l4im4%2BlGsS3plvvXVulxMG%2FIGmRP0H6fgmzVsC3epSXRP93aPBMPbM51FW0lcSgzZMcSiX0%2FAjoZuliBBL%2B%2FixPkVsyQBfvsmgEb4NApBreN5ricmHFkdrL5Y3nNuUrLKc7ZgwADhNIbaKCenjGS20AYcL3MrkvWqkwD0CD8pv68lGpu5y31lTggdAW4OMawaAVPIWhz%2B%2Bt2wEX9WsmyDRH0QKljaBDZF49cq4PiKUJiuKLunoKUGMi2MLs2FgW8pHHb20A5PQmWoQcasx1eaAWxodSkXx%2B%2FFey29s9R3pKaH7KOmvdU%3D&X-Amz-Signature=26a8549eee00d01f836ab7ac717f3a76b3a694f768aed7de5a63eb6d14d952ff&X-Amz-SignedHeaders=host"
+      },
+      "text": {
+        "en": "<p><strong style=\"color: rgb(231, 0, 138);\">Chapter 3</strong></p><p>&nbsp;</p><p><strong style=\"color: rgb(231, 0, 138);\">Anaerobic Respiration:</strong></p><p class=\"ql-align-justify\"><span style=\"font-size: 16px; color: rgb(32, 33, 34);\">is&nbsp;respiration&nbsp;using&nbsp;</span><span style=\"font-size: 16px; background-color: rgb(255, 255, 255);\">electron acceptors</span><span style=\"font-size: 16px; color: rgb(32, 33, 34);\">&nbsp;other</span><span style=\"font-size: 16px;\"> than&nbsp;</span><span style=\"font-size: 16px; background-color: rgb(255, 255, 255);\">molecular oxygen</span><span style=\"font-size: 16px;\">&nbsp;(O</span><sub style=\"font-size: 16px;\">2</sub><span style=\"font-size: 16px;\">). Although oxygen is not the final electron acceptor, the process still uses a respiratory electron transport chain</span><span style=\"font-size: 16px; color: rgb(32, 33, 34);\">.</span><span style=\"font-size: 14px; color: rgb(32, 33, 34);\"> </span>When oxygen is missing or in low quantity. living organisms as bacteria and fungi respire by another kind of respiration called anaerobic respiration. Also plant and animal cells may respire anaerobically when oxygen is not available, and this is known as fermentation. this kind of respiration does not need oxygen but it takes place in the presence of special enzymes.</p><p class=\"ql-align-justify\"><br></p><p>Anaerobic respiration starts the same way as aerobic respiration by the decomposition of a glucose molecule into two molecules of pyruvic acid with two molecules of NADH and a small quantity of energy as 2 ATP released.</p><p><br></p><p><span style=\"font-size: 24px;\">Activity:</span></p><p><br></p><p><br></p><p>Pyruvic acid is converted according to the type of cell in which it was formed, in case of animal cells, especially the muscle fibres, when the muscles exert vigorous efforts or exercises, they consume most of the oxygen in their cells and tend to convert pyruvic acid into lactic acid after its reduction by combining with hydrogen on NADH</p><p><br></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(54, 52, 53);\">C</strong><sub style=\"color: rgb(54, 52, 53);\"><strong>6</strong></sub><strong style=\"color: rgb(54, 52, 53);\">H</strong><sub style=\"color: rgb(54, 52, 53);\"><strong>12</strong></sub><strong style=\"color: rgb(54, 52, 53);\">&nbsp;O</strong><sub style=\"color: rgb(54, 52, 53);\"><strong>6</strong></sub><strong style=\"color: rgb(54, 52, 53);\">+ 6O</strong><sub style=\"color: rgb(54, 52, 53);\"><strong>2</strong></sub>&nbsp;<img src=\"//:0\">&nbsp;&nbsp;<strong style=\"color: rgb(54, 52, 53);\">2C</strong><sub style=\"color: rgb(54, 52, 53);\"><strong>3</strong></sub><strong style=\"color: rgb(54, 52, 53);\">H</strong><sub style=\"color: rgb(54, 52, 53);\"><strong>6&nbsp;</strong></sub><strong style=\"color: rgb(54, 52, 53);\">O</strong><sub style=\"color: rgb(54, 52, 53);\"><strong>3</strong></sub><strong style=\"color: rgb(54, 52, 53);\">&nbsp;&nbsp;+ 2ATP</strong></p><p class=\"ql-align-justify\">This is known as muscular fatigue, (if oxygen is available, lactic acid is converted into pyruvic acid again and then into acetyl co-A). In the case of bacteria pyruvic acid is convened into lactic acid. In the case of yeast or in some plant cells pyruvic acid is reduced into ethyl alcohol and carbon dioxide. This process is called alcoholic fermentation and is used in the industry of some products.</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\"><strong style=\"color: rgb(54, 52, 53);\">C</strong><sub style=\"color: rgb(54, 52, 53);\"><strong>6</strong></sub><strong style=\"color: rgb(54, 52, 53);\">H</strong><sub style=\"color: rgb(54, 52, 53);\"><strong>12</strong></sub><strong style=\"color: rgb(54, 52, 53);\">&nbsp;O</strong><sub style=\"color: rgb(54, 52, 53);\"><strong>6</strong></sub><strong style=\"color: rgb(54, 52, 53);\">+ 6O</strong><sub style=\"color: rgb(54, 52, 53);\"><strong>2</strong></sub>&nbsp;<img src=\"//:0\">&nbsp;&nbsp;<strong style=\"color: rgb(54, 52, 53);\">2C</strong><sub style=\"color: rgb(54, 52, 53);\"><strong>2</strong></sub><strong style=\"color: rgb(54, 52, 53);\">H</strong><sub style=\"color: rgb(54, 52, 53);\"><strong>5</strong></sub><strong style=\"color: rgb(54, 52, 53);\">&nbsp;OH+2CO</strong><sub style=\"color: rgb(54, 52, 53);\"><strong>2</strong></sub><strong style=\"color: rgb(54, 52, 53);\">+ 2ATP</strong></p><p><br></p><p class=\"ql-align-justify\"><br></p>",
+        "ar": "<h1 class=\"ql-direction-rtl ql-align-right\">التنفس اللاهوائي</h1><p class=\"ql-direction-rtl ql-align-right\"><strong style=\"color: rgb(231, 0, 138);\">الفصل 3</strong></p><p class=\"ql-direction-rtl ql-align-right\"><strong style=\"color: rgb(231, 0, 138);\">التنفس اللاهوائي:</strong></p><p class=\"ql-direction-rtl ql-align-right\"><span style=\"color: rgb(32, 33, 34); font-size: 16px;\">هو التنفس باستخدام</span> <span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\">مستقبلات الإلكترون</span> <span style=\"color: rgb(32, 33, 34); font-size: 16px;\">بخلاف</span> <span style=\"font-size: 16px;\">الأكسجين</span> <span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\">الجزيئي</span> <span style=\"font-size: 16px;\">(O</span> <sub style=\"font-size: 16px;\">2</sub> <span style=\"font-size: 16px;\">). على الرغم من أن الأكسجين ليس متقبل الإلكترون النهائي ، إلا أن العملية لا تزال تستخدم سلسلة نقل إلكترون في الجها</span><a href=\"ref_0\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">[1]</a><span style=\"font-size: 16px;\">ز التنفسي</span> <span style=\"color: rgb(32, 33, 34); font-size: 16px;\">.</span><span style=\"color: rgb(32, 33, 34); font-size: 14px;\"> </span>عندما يكون الأكسجين مفقودًا أو بكميات قليلة. تتنفس الكائنات الحية مثل البكتيريا والفطريات بنوع آخر من التنفس يسمى التنفس اللاهوائي. كما يمكن للخلايا النباتية والحيوانية أن تتنفس بشكل لاهوائي عند عدم توفر الأكسجين ، وهذا ما يعرف بالتخمير. هذا النوع من التنفس لا يحتاج إلى أكسجين ولكنه يحدث بوجود إنزيمات خاصة.</p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\">يبدأ التنفس اللاهوائي بنفس طريقة التنفس الهوائي عن طريق تحلل جزيء الجلوكوز إلى جزيئين من حمض البيروفيك مع جزيئين من NADH وكمية صغيرة من الطاقة عند إطلاق 2 ATP.</p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><span style=\"font-size: 24px;\">نشاط:</span></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/Aerobic_and_Anaerobic_613ce39c6682ba42ce2e7356_ar.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIA4ZSSFNBKJY3MOWOC%2F20220301%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220301T170845Z&amp;X-Amz-Expires=10000&amp;X-Amz-Security-Token=FwoGZXIvYXdzEMP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDEgFY6q1iM87mOisliK2AdrAa2pGme2p2d%2Fb37fEhApAjPaUU%2F%2BvaqMvg1m0uX0ETAGotWzSsz4kR6UhsZAmCcDHTpP3xGr00EwtDaYaKrUQcIhUlG3G2MqVwsXyNvT6U5WvFI5Gsvm2Gj%2Byj5aJ0KJ0NTt9QqNsQoWjz%2Fan%2F%2Bovrg%2B5dagW9PIth8KRIXtQJ%2F7FQIiqxU%2BsbkA%2Bcq8qc4EBjRjjBUW9ptZsPxkdb0iSiBaJoTfB%2FPGJc4wuknbbBiS2WeUmKJ2m%2BZAGMi3HhUZRKCw69HSWTbbuzxvYzCahI64yhkHUSgrilPHa0KOOgShma6qBR9eY7Zk%3D&amp;X-Amz-Signature=fbb4eb3298dcd88325a44b2e8447bfb9d7ad062d3b697d333618abe6d82ee938&amp;X-Amz-SignedHeaders=host\"></iframe><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\">يتم تحويل حمض البيروفيك وفقًا لنوع الخلية التي تشكلت فيها ، في حالة الخلايا الحيوانية ، وخاصة ألياف العضلات ، فعندما تبذل العضلات جهودًا أو تمارين قوية ، فإنها تستهلك معظم الأكسجين الموجود في خلاياها وتميل إلى تحويل البيروفيك. إلى حمض اللاكتيك بعد اختزاله عن طريق الدمج مع الهيدروجين في NADH</p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><strong style=\"color: rgb(54, 52, 53);\">ج</strong> <sub style=\"color: rgb(54, 52, 53);\"><strong>6</strong></sub> <strong style=\"color: rgb(54, 52, 53);\">س</strong> <sub style=\"color: rgb(54, 52, 53);\"><strong>12</strong></sub> <strong style=\"color: rgb(54, 52, 53);\">س</strong> <sub style=\"color: rgb(54, 52, 53);\"><strong>6</strong></sub> <strong style=\"color: rgb(54, 52, 53);\">+</strong> 6 س <sub style=\"color: rgb(54, 52, 53);\"><strong>2</strong></sub><img src=\"//:0\"> <strong style=\"color: rgb(54, 52, 53);\">2C</strong> <sub style=\"color: rgb(54, 52, 53);\"><strong>3</strong></sub> <strong style=\"color: rgb(54, 52, 53);\">H</strong> <sub style=\"color: rgb(54, 52, 53);\"><strong>6</strong></sub> <strong style=\"color: rgb(54, 52, 53);\">O</strong> <sub style=\"color: rgb(54, 52, 53);\"><strong>3</strong></sub> <strong style=\"color: rgb(54, 52, 53);\">+ 2ATP</strong></p><p class=\"ql-direction-rtl ql-align-right\">يُعرف هذا بالإرهاق العضلي (في حالة توفر الأكسجين ، يتم تحويل حمض اللاكتيك إلى حمض البيروفيك مرة أخرى ثم إلى أسيتيل co-A). في حالة البكتيريا ، يتم تحويل حمض البيروفيك إلى حمض اللاكتيك. في حالة الخميرة أو في بعض الخلايا النباتية يتم تقليل حمض البيروفيك إلى كحول إيثيلي وثاني أكسيد الكربون. تسمى هذه العملية بالتخمير الكحولي وتستخدم في صناعة بعض المنتجات.</p><p class=\"ql-direction-rtl ql-align-right\"><strong style=\"color: rgb(54, 52, 53);\">ج</strong> <sub style=\"color: rgb(54, 52, 53);\"><strong>6</strong></sub> <strong style=\"color: rgb(54, 52, 53);\">س</strong> <sub style=\"color: rgb(54, 52, 53);\"><strong>12</strong></sub> <strong style=\"color: rgb(54, 52, 53);\">س</strong> <sub style=\"color: rgb(54, 52, 53);\"><strong>6</strong></sub> <strong style=\"color: rgb(54, 52, 53);\">+</strong> 6 س <sub style=\"color: rgb(54, 52, 53);\"><strong>2</strong></sub><img src=\"//:0\"> <strong style=\"color: rgb(54, 52, 53);\">2C</strong> <sub style=\"color: rgb(54, 52, 53);\"><strong>2</strong></sub> <strong style=\"color: rgb(54, 52, 53);\">H</strong> <sub style=\"color: rgb(54, 52, 53);\"><strong>5</strong></sub> <strong style=\"color: rgb(54, 52, 53);\">OH +</strong> 2CO <sub style=\"color: rgb(54, 52, 53);\"><strong>2</strong></sub> <strong style=\"color: rgb(54, 52, 53);\">+ 2ATP</strong></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p>.</p>"
+      },
+      "narrationText": {
+        "en": " Chapter 3. Anaerobic Respiration: is respiration using  electron acceptors other  than molecular oxygen O2 . Although oxygen is not the final electron acceptor, the process still uses a respiratory electron transport chain. When oxygen is missing or in low quantity. living organisms as bacteria and fungi respire by another kind of respiration called anaerobic respiration. Also plant and animal cells may respire anaerobically when oxygen is not available, and this is known as fermentation. this kind of respiration does not need oxygen but it takes place in the presence of special enzymes.</p><p class=\"ql-align-justify\"><br></p><p>Anaerobic respiration starts the same way as aerobic respiration by the decomposition of a glucose molecule into two molecules of pyruvic acid with two molecules of NADH and a small quantity of energy as 2 ATP released.  Pyruvic acid is converted according to the type of cell in which it was formed, in case of animal cells, especially the muscle fibres, when the muscles exert vigorous efforts or exercises, they consume most of the oxygen in their cells and tend to convert pyruvic acid into lactic acid after its reduction by combining with hydrogen on NADH.  C6 H12 O6 + 6 O2 2 C3 H6 O3 + 2ATP. This is known as muscular fatigue, (if oxygen is available, lactic acid is converted into pyruvic acid again and then into acetyl co-A). In the case of bacteria pyruvic acid is convened into lactic acid. In the case of yeast or in some plant cells pyruvic acid is reduced into ethyl alcohol and carbon dioxide. This process is called alcoholic fermentation and is used in the industry of some products. C6 H12 O6 + 6 O2 2 C2 H5 OH+2 CO2 + 2ATP ",
+        "ar": "الفصل الثالث: التنفس اللاهوائي: هو التنفس باستخدام مستقبلات الإلكترون غير الأكسجين الجزيئي (O2). على الرغم من أن الأكسجين ليس متقبل الإلكترون النهائي ، إلا أن العملية لا تزال تستخدم سلسلة نقل إلكترون في الجهاز التنفسي. عندما يكون الأكسجين مفقودًا أو بكميات قليلة. الكائنات الحية مثل البكتيريا والفطريات تتنفس بنوع آخر من التنفس يسمى التنفس اللاهوائي. كما يمكن للخلايا النباتية والحيوانية أن تتنفس بشكل لاهوائي عندما لا يتوفر الأكسجين ، وهذا ما يعرف بالتخمير. هذا النوع من التنفس لا يحتاج إلى أكسجين ولكنه يحدث بوجود إنزيمات خاصة. يبدأ التنفس اللاهوائي بنفس طريقة التنفس الهوائي عن طريق تحلل جزيء الجلوكوز إلى جزيئين من حمض البيروفيك مع جزيئين من NADH وكمية صغيرة من الطاقة عند إطلاق 2 ATP. يتم تحويل حمض البيروفيك وفقًا لنوع الخلية التي تشكلت فيها ، في حالة الخلايا الحيوانية ، وخاصة ألياف العضلات ، عندما تبذل العضلات جهودًا أو تمارين قوية ، فإنها تستهلك معظم الأكسجين الموجود في خلاياها وتميل إلى تحويل البيروفيك. إلى حمض اللاكتيك بعد اختزاله عن طريق الدمج مع الهيدروجين في NADH. C6H12 O6 + 6O2 2C3H6 O3 + 2ATP. يُعرف هذا بالإرهاق العضلي (في حالة توفر الأكسجين ، يتم تحويل حمض اللاكتيك إلى حمض البيروفيك مرة أخرى ثم إلى أسيتيل co-A). في حالة البكتيريا ، يتم تحويل حمض البيروفيك إلى حمض اللاكتيك. في حالة الخميرة أو في بعض الخلايا النباتية يتم تقليل حمض البيروفيك إلى كحول إيثيلي وثاني أكسيد الكربون. تسمى هذه العملية بالتخمير الكحولي وتستخدم في صناعة بعض المنتجات. C6H12 O6 + 6O2 2C2H5 OH + 2CO2 + 2ATP"
+      },
+      "keywords": [
+        {
+          "word": "glucose molecule",
+          "definition": "",
+          "abbreviation": "",
+          "objId": "",
+          "sections": [120057072545, 121450865971],
+          "sectionId": 121450865971
+        }
+      ],
+      "audio": {
+        "en": "audioFiles/anaeropic_respiration_en.mp3",
+        "ar": "eBooks/azharengineering2020/ut1/61645f97fccd34a44373699b/audioFiles/anaeropic_respiration_ar.mp3"
+      }
+    },
+    {
+      "name": "Respiration in human",
+      "id": 96355145571,
+      "depth": 0,
+      "nodeNum": null,
+      "expanded": true,
+      "interactiveObject": 
+         [
+          {
+            "url":"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/Alveoli_613dccb86682ba739f2e7359.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA4ZSSFNBKKYVSAH6H%2F20230707%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230707T132449Z&X-Amz-Expires=10000&X-Amz-Security-Token=FwoGZXIvYXdzEPf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDJ3Pro9LtqhEivRrWyK2AZiFwqgkRYF28bnzG9M0%2Bo5EiQnd5M81UfibRqlDAP23nb60NLXYtysGMwTzE3Pfb8WK9%2Bdke6Ooy0Qk9PRC3Y4%2F9tSWGujF8T7KcNsrnJzBHx9NBkcqKl5vLVcHsEjGMv4tyTxTsYo6VKiJtHhzqXA6YnOih0W61RFlhiq8JTsGM7yjYils1hXbGCgrUSiX8c6%2FR4bEKZUBH6oE77Jvj7xjupYVkcQwHClXE1jBxZ8OtYpisCv%2FKKGkoKUGMi22i%2Fmtd3%2FgO9ATSy45bFcTHgfd%2BSONHIoLLIU9wKG7qzWuv774cb2lp4MoNIw%3D&X-Amz-Signature=2b55d3fa2711f23bb0f936d48a07c877fd5b390f0d3ffc092a98602d1514f1ab&X-Amz-SignedHeaders=host"
+          },
+          {
+            "url":"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/sorting_the_stru_cture_of_respir_etory_613cabd96682ba6dce2e7351.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA4ZSSFNBKEOAK6JMH%2F20230707%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230707T132449Z&X-Amz-Expires=10000&X-Amz-Security-Token=FwoGZXIvYXdzEPf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDIzM2uoNhFz2wV5fkyK2AZE1hIVVYnY%2F2EiNwjO0u8vZXgkr5DBsO7x%2FdM8vPIz9pf8eMFfilItE4pZoyjojycCXtZbIKHb8t5gBA7wNUJgoIZYHSFKwOXNzfK9HWBWdlD52jc1SOdTnbSTS8Ia5AgCY3MOuNTv5O3Kx%2BEK2N%2BHR8x8%2BwXdpU475dnNm4FXZh3LFYpFSXuhCHXD7rjpw6X7zG93oXdqacfjAuvZ%2BdpPbkIuwRYveeFHFhVQ6LrpXuK6tteSjKKGkoKUGMi0tPzZW9bTH7sSH1uZHbt%2F7k8nukgdeT1TJqFNw9t66j6fZNZeO087FHgo3eFw%3D&X-Amz-Signature=e4ebb284f96788eca325779d1662d3d561292d9ba25bcdff2e4cfe7051e37343&X-Amz-SignedHeaders=host"
+          },
+          {
+            "url":"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/respiration_system_in_human_613ce91b6682ba3a152e7357.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA4ZSSFNBKKYVSAH6H%2F20230707%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230707T132449Z&X-Amz-Expires=10000&X-Amz-Security-Token=FwoGZXIvYXdzEPf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDJ3Pro9LtqhEivRrWyK2AZiFwqgkRYF28bnzG9M0%2Bo5EiQnd5M81UfibRqlDAP23nb60NLXYtysGMwTzE3Pfb8WK9%2Bdke6Ooy0Qk9PRC3Y4%2F9tSWGujF8T7KcNsrnJzBHx9NBkcqKl5vLVcHsEjGMv4tyTxTsYo6VKiJtHhzqXA6YnOih0W61RFlhiq8JTsGM7yjYils1hXbGCgrUSiX8c6%2FR4bEKZUBH6oE77Jvj7xjupYVkcQwHClXE1jBxZ8OtYpisCv%2FKKGkoKUGMi22i%2Fmtd3%2FgO9ATSy45bFcTHgfd%2BSONHIoLLIU9wKG7qzWuv774cb2lp4MoNIw%3D&X-Amz-Signature=ac6e333fe0182a68d79f264fcc7eb2c00ab0b06e1ef3fbd8c77a746284510056&X-Amz-SignedHeaders=host"
+          },
+          {
+            "url":"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/function_of_rspiretory_613caf356682bafe902e7352.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA4ZSSFNBKKYVSAH6H%2F20230707%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230707T132449Z&X-Amz-Expires=10000&X-Amz-Security-Token=FwoGZXIvYXdzEPf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDJ3Pro9LtqhEivRrWyK2AZiFwqgkRYF28bnzG9M0%2Bo5EiQnd5M81UfibRqlDAP23nb60NLXYtysGMwTzE3Pfb8WK9%2Bdke6Ooy0Qk9PRC3Y4%2F9tSWGujF8T7KcNsrnJzBHx9NBkcqKl5vLVcHsEjGMv4tyTxTsYo6VKiJtHhzqXA6YnOih0W61RFlhiq8JTsGM7yjYils1hXbGCgrUSiX8c6%2FR4bEKZUBH6oE77Jvj7xjupYVkcQwHClXE1jBxZ8OtYpisCv%2FKKGkoKUGMi22i%2Fmtd3%2FgO9ATSy45bFcTHgfd%2BSONHIoLLIU9wKG7qzWuv774cb2lp4MoNIw%3D&X-Amz-Signature=702e3eabb1826dfba2cd806a7b665b550bb3c55d375928e061ee1f21dd030b2e&X-Amz-SignedHeaders=host"
+          },
+          {
+            "url":"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/Alveoli_613dccb86682ba739f2e7359.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA4ZSSFNBKKYVSAH6H%2F20230707%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230707T132449Z&X-Amz-Expires=10000&X-Amz-Security-Token=FwoGZXIvYXdzEPf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDJ3Pro9LtqhEivRrWyK2AZiFwqgkRYF28bnzG9M0%2Bo5EiQnd5M81UfibRqlDAP23nb60NLXYtysGMwTzE3Pfb8WK9%2Bdke6Ooy0Qk9PRC3Y4%2F9tSWGujF8T7KcNsrnJzBHx9NBkcqKl5vLVcHsEjGMv4tyTxTsYo6VKiJtHhzqXA6YnOih0W61RFlhiq8JTsGM7yjYils1hXbGCgrUSiX8c6%2FR4bEKZUBH6oE77Jvj7xjupYVkcQwHClXE1jBxZ8OtYpisCv%2FKKGkoKUGMi22i%2Fmtd3%2FgO9ATSy45bFcTHgfd%2BSONHIoLLIU9wKG7qzWuv774cb2lp4MoNIw%3D&X-Amz-Signature=2b55d3fa2711f23bb0f936d48a07c877fd5b390f0d3ffc092a98602d1514f1ab&X-Amz-SignedHeaders=host"
+          },
+          {
+            "url":"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/respiration_system_in_human_613ce91b6682ba3a152e7357.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA4ZSSFNBKKYVSAH6H%2F20230707%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230707T132449Z&X-Amz-Expires=10000&X-Amz-Security-Token=FwoGZXIvYXdzEPf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDJ3Pro9LtqhEivRrWyK2AZiFwqgkRYF28bnzG9M0%2Bo5EiQnd5M81UfibRqlDAP23nb60NLXYtysGMwTzE3Pfb8WK9%2Bdke6Ooy0Qk9PRC3Y4%2F9tSWGujF8T7KcNsrnJzBHx9NBkcqKl5vLVcHsEjGMv4tyTxTsYo6VKiJtHhzqXA6YnOih0W61RFlhiq8JTsGM7yjYils1hXbGCgrUSiX8c6%2FR4bEKZUBH6oE77Jvj7xjupYVkcQwHClXE1jBxZ8OtYpisCv%2FKKGkoKUGMi22i%2Fmtd3%2FgO9ATSy45bFcTHgfd%2BSONHIoLLIU9wKG7qzWuv774cb2lp4MoNIw%3D&X-Amz-Signature=ac6e333fe0182a68d79f264fcc7eb2c00ab0b06e1ef3fbd8c77a746284510056&X-Amz-SignedHeaders=host"
+          },
+          {
+            "url":"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/function_of_rspiretory_613caf356682bafe902e7352.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA4ZSSFNBKJWAIVN4G%2F20230707%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230707T132450Z&X-Amz-Expires=10000&X-Amz-Security-Token=FwoGZXIvYXdzEPf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDN%2FqvDbk8Xcap%2BRXqCK2AcHcPWetIJ45gNtXRjLg7EW%2BF1emVOl38WslIlHQ7VZxvkpB%2FDnYAWGh0fORz5R8qhZ4nbgYM6kvRDo2mxPXlEHZDs6RnG4HW2D5zy4fzu17LN4Xk%2FXLB5z0DpN8FeYn1z1OeNBSzsHuIIPYIwS38AzRffd3BOKReKoDVetyVEdZEi7ReuCGDe3hJkyfGINpsU2fiBjgf182gWQyaXR2THwQJ0nnLSh30zhnk5OZx7lUGE5ds8ASKKKkoKUGMi3xUufs1gDSYo1rBP43OEiiRly2BeADH8Ki9UgPsp9kDEa78bgH1waKoagRFQI%3D&X-Amz-Signature=ea29746afa2555b5b552c7944c81ec0ced135b23e35200a49c5284977d8f7c63&X-Amz-SignedHeaders=host"
+          }
+      ]
+      ,
+      "text": {
+        "en": "<p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\"><strong style=\"color: rgb(231, 0, 138);\">Respiration in Man</strong></p><p class=\"ql-align-center\"><strong style=\"color: rgb(231, 0, 138);\">&nbsp;</strong></p><p><strong style=\"color: rgb(231, 0, 138);\">The respiratory system in man:</strong></p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">The air enters the body through the nose or the mouth. It is preferable from the hygienic point of view. for air to enter through the nose, because this passage is warm (as it is lined with numerous blood capillaries) and moist (as it secretes mucus). It also serves as a filter (because it contains hair which act as a filler).</p><p><br></p><p><br></p><p class=\"ql-align-justify\">Air then passes through the pharynx which as common passageway for both air and food. It enters the trachea through the larynx (which is also known as the voice box). The trachea wall contains a series. of cartilage 3/4 rings which prevent the trachea from collapsing, thus maintaining an open passage way for air. The inner surface of the trachea is lined with cilia which beat upwards tending to create air and mucus currents. This impedes the entry of small foreign bodies, and moves them to the pharynx, where they may be swallowed. The trachea is divided at its lower end into two bronchi which divide and subdivide into progressively mailer and smaller bronchiole. each bronchiole finally opens into one of the many alveoli (air sacs) of which there are about 600 million per lung.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><span style=\"font-size: 24px;\">Activity:</span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">The thin alveolar walls are considered the actual respiratory surface, as they are surrounded with a large network of blood capillaries. Blood receives oxygen from the alveolar air and carries it to the rest of the body. It gives out CO<sub style=\"color: rgb(54, 52, 53);\"><strong>2</strong></sub>&nbsp;to the alveoli in return so that it may get rid of it. The whole group of alveoli and bronchiole connected to them, together with the huge network of capillaries, constitute the lung. Each animal including man possesses two lungs, a right lung and a left one.</p><p class=\"ql-align-justify\"><br></p><p><br></p><p class=\"ql-align-justify\">The respiratory system in man plays an important role in the excretion of water in the excration air contains water vapour. Man usually loses daily about 500 cm3 of water through his lungs out of the cm<span style=\"color: red;\">3</span> water IJ1at 2500 of the loses daily. TI1is is due to the evaporation of water that rnojsrens the alveoli membranes. This water is necessary for dissolving oxygen and carbon dioxide so that the exchange of gases between the air of the al.veoli and the surrounding blood in the capillaries occurs.&nbsp;</p>",
+        "ar": "<h1 class=\"ql-direction-rtl ql-align-right\">التنفس في الإنسان</h1><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/Alveoli_613dccb86682ba739f2e7359_ar.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIA4ZSSFNBKHBDL3BNM%2F20220301%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220301T171305Z&amp;X-Amz-Expires=10000&amp;X-Amz-Security-Token=FwoGZXIvYXdzEMP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDHyTWxLw815EKBN1ryK2AcVIivCNHmQs38zBF0E96WLaI62JTAkuVA7lsCykcMOO2ktYl9KzpgdnX9%2F9LY%2BUh7AQ%2Bg8pLlPK3FMwBulMaAqJ%2BMNHeH4%2B4hJl%2BCDFouk%2BaA6q0oNqN9fOS5nUrR2zEpfF4Z%2FvyBWdP4pm8DzBbfaT1EbkXUYCXfzb4%2BLgy7tetTYksGl25PUW%2Fcm46cfm0sKyo0ggUt%2B07B%2BLfGdb0DUthph01zuCBWEMwAZTZQdXDv%2BR5nSvKKGo%2BZAGMi0oxYc9yJ1UoZmRq4qjU6FCfN47s4sIKwb%2FJe37tNdm7mLz7rARZflebH5G6a8%3D&amp;X-Amz-Signature=d2358bdcbfd25c1f9d334708aa56df20c22bf59cd3c64e3d56c84f53c4244404&amp;X-Amz-SignedHeaders=host\"></iframe><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><strong style=\"color: rgb(231, 0, 138);\">التنفس في الرجل</strong></p><p class=\"ql-direction-rtl ql-align-right\"><strong style=\"color: rgb(231, 0, 138);\">&nbsp;</strong></p><p class=\"ql-direction-rtl ql-align-right\"><strong style=\"color: rgb(231, 0, 138);\">الجهاز التنفسي عند الانسان:</strong></p><p class=\"ql-direction-rtl ql-align-right\">يدخل الهواء الجسم عن طريق الأنف أو الفم. يفضل من الناحية الصحية. لدخول الهواء عبر الأنف ، لأن هذا الممر دافئ (حيث أنه مبطّن بالعديد من الشعيرات الدموية) ورطب (لأنه يفرز المخاط). كما أنه يعمل كفلتر (لأنه يحتوي على شعر يعمل كمواد مالئة).</p><p class=\"ql-direction-rtl ql-align-right\"><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/sorting_the_stru_cture_of_respir_etory_613cabd96682ba6dce2e7351_ar.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIA4ZSSFNBKMIJNQVIB%2F20220301%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220301T171327Z&amp;X-Amz-Expires=10000&amp;X-Amz-Security-Token=FwoGZXIvYXdzEMP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDKMJeXys7h7p%2B4x9dSK2AX8jUmVzUMFafXuqBzYD4CizsHp5pJNhiqq8KU6ryHbiXjPyRsdsB%2Bj2cwYZVTNucHnNCb7j5Gpuk2j2cmb6EOdRVTjGdZqedY0tvL6PdNXYLD14AOakAwat9XjFmIUsnMBlm8979c6llLd11m%2FpW%2BaaveXgS8K3FtBdfkQIqH7flzs%2FovOl8fCKAXm5Bx%2FSzOQfPxEXcA74FkGq6Zf%2BWdGFmxKbtLeT9x06mEQP3rU%2Bxydb1qFQKLeo%2BZAGMi19b7wV%2FpvC%2BOPUG3lzRlDPHEL9ZpiKcV8ipZmZFfd1xLjQRgwrZTc%2FySufS9U%3D&amp;X-Amz-Signature=3bbae9ca96919a17a3e3e037d96ae1c9fe42d0b259fe70759c2c49835e7b11de&amp;X-Amz-SignedHeaders=host\"></iframe><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/respiration_system_in_human_613ce91b6682ba3a152e7357_ar.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIA4ZSSFNBKH53NDHFU%2F20220301%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220301T171304Z&amp;X-Amz-Expires=10000&amp;X-Amz-Security-Token=FwoGZXIvYXdzEMP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDLMc5EAkasz45ifRYiK2AS%2FVia1RqGEVE1yYjS%2FLl3maNE5lkoSjfOIwZ%2BRgw1lIiNH1GuXXlraEwzr0sX7VhiRUWqcMkvuOFCkjoR3dt%2Bg9PRXWVgQ0U4W9cHEzM%2F4gR0kJ3lz4PMb0yt2y53C9qLIFJjNQhoIu6fF2luWNB5l0S4TfYXhdZJVPBGgXTv%2BaEqfgrnUbDqLT6%2BUkh%2Bp7qDp1Phnb%2BdNc1bmrsc2CTCwxvMVC%2BNyY3LyFMa5BLnTROc5ow6oZKKCo%2BZAGMi2uSdcYemH5Lgz8Tv%2BXadxnKxC9eSvs2o3XtL%2FeHCeR%2BtBSPb109eW21%2FkPP84%3D&amp;X-Amz-Signature=f06314d3ba76afdc27823f500d70e26133d0647d1952f3ea810ce170d45f9bcc&amp;X-Amz-SignedHeaders=host\"></iframe><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\">ثم يمر الهواء عبر البلعوم الذي يعتبر ممرًا مشتركًا لكل من الهواء والطعام. يدخل القصبة الهوائية من خلال الحنجرة (والتي تعرف أيضًا باسم صندوق الصوت). يحتوي جدار القصبة الهوائية على سلسلة. من الغضروف 3/4 حلقات تمنع القصبة الهوائية من الانهيار ، وبالتالي تحافظ على ممر مفتوح للهواء. السطح الداخلي للقصبة الهوائية مبطن بأهداب تنبض لأعلى وتميل إلى تكوين تيارات الهواء والمخاط. وهذا يعيق دخول الأجسام الغريبة الصغيرة ، وينقلها إلى البلعوم حيث يمكن ابتلاعها. تنقسم القصبة الهوائية عند نهايتها السفلية إلى قصبتين تنقسمان وتنقسمان تدريجياً إلى شعيبات بريدية وأخرى أصغر. يتم فتح كل قصبة في النهاية في واحدة من العديد من الحويصلات الهوائية (الحويصلات الهوائية) التي يوجد منها حوالي 600 مليون لكل رئة.</p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><span style=\"font-size: 24px;\">نشاط:</span></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p>html؟ X-Amz-Algorithm = AWS4-HMAC-SHA256 &amp; X-Amz-Credential = ASIA4ZSSFNBKHYTNHBP4٪ 2F20210912٪ 2Feu-west-1٪ 2Fs3٪ 2Faws4_request &amp; X-Amz-Expires = 20210912T &amp; X-Amz-Date = 20210912 FwoGZXIvYXdzENX٪ 2F٪ 2F٪ 2F٪ 2F٪ 2F٪ 2F٪ 2F٪ 2F٪ 2F٪ 2FwEaDFscyITkI17BPPb4PCK2AQqYk7KuuzUY٪ 2BDKLeL٪ 2FBOQ7Rlwzerctzs22HqrEPDUrs16zZDX9RwziDNZfyXOppztmiOnvgKUe7R4itmtpr2JWqdcFCoFUjGsrbiMBCKsgPm٪ 2FJX731Eb2qwTq٪ 2BI215DjW٪ 2FDNHNcEQ2jW3O3445tP4C023vsdXOaaHKsa4qm7uvjSRR82qFQ3On0tEkgoBCRGDG8MargilVxslj1rAxFO2ocRJI4rROi9z3INfU5FaK5p8PmLhiBKM٪ 2Bf٪ 2BYkGMi3HgleYY٪ 2Fewjzrg9f2F40rexBDpYwgRHkZBIQmudqtpNjULQ5C8j1AS9mnUYLg٪ 3D &amp; X-AMZ-التوقيع = 0e73f17fafc9bc4a06ad0b8569aea72a62bdb8ac37244f17a0555f6eaa330a52 &amp; X-AMZ-SignedHeaders = مضيف \"Frameborder =\" 0 \"&gt;</p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/sorting_the_stru_cture_of_respir_etory_613cabd96682ba6dce2e7351_ar.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIA4ZSSFNBKFB3NTJPS%2F20220301%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220301T171325Z&amp;X-Amz-Expires=10000&amp;X-Amz-Security-Token=FwoGZXIvYXdzEMP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDFpBxfUzOHbIefhmgCK2Aft%2B605CzQZT9%2B1OJdCfryLiuoM9FO9wOtaLluz3w3CsRRDKt3njx9kiz3eBhff%2BzhB7gkTWwk8RQ1fMyCjmhBA0elBNS0oiSPkuuryM44l3%2B%2FFPGl8G7dSD2gV5%2FEelLv8EkBZk3Wv5Winkw1IKbqM6YEcWaq3STa%2BtMq4wI9G7esVMZUQxpuCgyaewledESl5VJweV8ifYs%2FeUUQyE834C3YgMUnm9wV9a95fuGAGpflenjuW6KLWo%2BZAGMi17iyZGAcZxLwFfkORPWwYyi64ubHBPTLIxZxveSRK6uDbs1%2FF25qz34lK%2FnDY%3D&amp;X-Amz-Signature=08b0d7d65fa75cffd424ccc3fc6eca1eb6b33a6e9e3fa5584960a0ac4a19be83&amp;X-Amz-SignedHeaders=host\"></iframe><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\">تعتبر الجدران السنخية الرقيقة السطح التنفسي الفعلي ، لأنها محاطة بشبكة كبيرة من الشعيرات الدموية. يتلقى الدم الأكسجين من الهواء السنخي وينقله إلى باقي الجسم. ويخرج ثاني أكسيد <sub style=\"color: rgb(54, 52, 53);\"><strong>الكربون</strong></sub> إلى الحويصلات الهوائية في المقابل حتى يتخلص منه. تشكل المجموعة الكاملة من الحويصلات الهوائية والقصيبات المتصلة بها ، جنبًا إلى جنب مع الشبكة الضخمة من الشعيرات الدموية ، الرئة. كل حيوان بما في ذلك الإنسان يمتلك رئتين ، رئة يمنى وأخرى يسرى.</p><p class=\"ql-direction-rtl ql-align-right\"><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/sorting_the_stru_cture_of_respir_etory_613cabd96682ba6dce2e7351_ar.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIA4ZSSFNBKMHMRM7OY%2F20220301%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220301T171327Z&amp;X-Amz-Expires=10000&amp;X-Amz-Security-Token=FwoGZXIvYXdzEMP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDAtEBvxphRCM5m8deyK2AZNe0UBcv9dmjpo4Yy9KbtCeYtyZlLM5pZZaFKM9JIhST7PDRJtqn%2BRLykMFeNeD89Sa8QRSYd6rYjSUP0hRMZR1%2BZVnHMEqWWvNdJ9aG9%2BmZGFUNbLEMz%2Fu8oqBQnQDoTnnHh8%2FE8VGhhCyno33%2FaKhchewSy%2BRemQRV2IEQymLz6kkJHUhv7GalSOXFsjf7u0m3RrrXP%2FOlnzIiYuuG1QWvyiDmnjmnKdz4tFC7W8lN52TPNS3KLeo%2BZAGMi3lsjUk3tr9fVbshVmGjFg9pFbkL0w9d%2BGAYzQylq1XNEV7pteh5i%2FSYkYK2ws%3D&amp;X-Amz-Signature=04b866269418b50bc89e6054238e79cad71a0c8247c053ffb384f37a402d229b&amp;X-Amz-SignedHeaders=host\"></iframe><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/h5p/function_of_rspiretory_613caf356682bafe902e7352_ar.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIA4ZSSFNBKJ6BQHHWA%2F20220301%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220301T171305Z&amp;X-Amz-Expires=10000&amp;X-Amz-Security-Token=FwoGZXIvYXdzEMP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDIS0m%2Fa8Tjx66eZQUyK2Adz5bfMgZ4F1eguUOEtH1F%2B2Q0yFYw%2BjFljr4A08HcA8z6IxrkOuVbMxRxdHQY7CuwuYjUHXP07tVHnSoFp%2B8imMycB84NJhWXn9GZMyXc98TKISdUZ9kZURJAJ1H8DZrBvigP7QlFMHp7JdcU8bUHXyAlMCetbvnUhMvW8OPMMQmI%2BM%2BcibXT26Q9JtbhXpIMTP7O4rxDYfW8UtCyucttAVTXwwIRaPoa1%2FjAZ1uLBJXoZtS1v3KKGo%2BZAGMi3afU9UTr6mCyBoj9jKt%2FPbpJ%2FTBQWrt6quwbb98KdXBqVa88RIlRq75cV9PG8%3D&amp;X-Amz-Signature=5fe3afa137cc107cc739dd0429733f4d9774b16b8baad2a4144cbd5051dca167&amp;X-Amz-SignedHeaders=host\"></iframe><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-direction-rtl ql-align-right\">يلعب الجهاز التنفسي عند الإنسان دورًا مهمًا في إفراز الماء في الهواء الذي يحتوي على بخار الماء. يفقد الإنسان عادة ما يقارب 500 سم مكعب من الماء يومياً من خلال رئتيه خارج سم <span style=\"color: red;\">3</span> ماء IJ1at 2500 من يخسر يومياً. TI1is يرجع إلى تبخر الماء الذي يؤدي إلى rnojsrens الأغشية الحويصلات الهوائية. هذا الماء ضروري لإذابة الأكسجين وثاني أكسيد الكربون بحيث يحدث تبادل الغازات بين هواء الحويصلات الهوائية والدم المحيط في الشعيرات الدموية.</p><p>.</p>"
+      },
+      "narrationText": {
+        "en": "Respiration in Man. The respiratory system in man: The air enters the body through the nose or the mouth. It is preferable from the hygienic point of view. for air to enter through the nose, because this passage is warm (as it is lined with numerous blood capillaries) and moist (as it secretes mucus). It also serves as a filter (because it contains hair which act as a filler). Air then passes through the pharynx which as common passageway for both air and food. It enters the trachea through the larynx (which is also known as the voice box). The trachea wall contains a series. of cartilage 3/4 rings which prevent the trachea from collapsing, thus maintaining an open passage way for air. The inner surface of the trachea is lined with cilia which beat upwards tending to create air and mucus currents. This impedes the entry of small foreign bodies, and moves them to the pharynx, where they may be swallowed. The trachea is divided at its lower end into two bronchi which divide and subdivide into progressively mailer and smaller bronchiole. each bronchiole finally opens into one of the many alveoli (air sacs) of which there are about 600 million per lung.  The thin alveolar walls are considered the actual respiratory surface, as they are surrounded with a large network of blood capillaries. Blood receives oxygen from the alveolar air and carries it to the rest of the body. It gives out CO2 to the alveoli in return so that it may get rid of it. The whole group of alveoli and bronchiole connected to them, together with the huge network of capillaries, constitute the lung. Each animal including man possesses two lungs, a right lung and a left one. The respiratory system in man plays an important role in the excretion of water in the excration air contains water vapour. Man usually loses daily about 500 cm3 of water through his lungs out of the cm3 water IJ1at 2500 of the loses daily. TI1is is due to the evaporation of water that rnojsrens the alveoli membranes. This water is necessary for dissolving oxygen and carbon dioxide so that the exchange of gases between the air of the al.veoli and the surrounding blood in the capillaries occurs. ",
+        "ar": "التنفس في الإنسان. الجهاز التنفسي عند الإنسان: يدخل الهواء الجسم عن طريق الأنف أو الفم. يفضل من الناحية الصحية. لدخول الهواء عبر الأنف ، لأن هذا الممر دافئ (لأنه مبطّن بالعديد من الشعيرات الدموية) ورطب (لأنه يفرز المخاط). كما أنه يعمل كفلتر (لأنه يحتوي على شعر يعمل كمواد مالئة).        ثم يمر الهواء عبر البلعوم الذي يعتبر ممرًا مشتركًا لكل من الهواء والطعام. يدخل القصبة الهوائية من خلال الحنجرة (والتي تعرف أيضًا باسم صندوق الصوت). يحتوي جدار القصبة الهوائية على سلسلة. من الغضروف 3/4 حلقات تمنع القصبة الهوائية من الانهيار ، وبالتالي تحافظ على ممر مفتوح للهواء. السطح الداخلي للقصبة الهوائية مبطن بأهداب تنبض لأعلى وتميل إلى تكوين تيارات الهواء والمخاط. هذا يعيق دخول الأجسام الغريبة الصغيرة ، وينقلها إلى البلعوم ، حيث يمكن ابتلاعها. تنقسم القصبة الهوائية عند نهايتها السفلية إلى قصبتين تنقسمان وتنقسمان تدريجياً إلى شعيبات بريدية وأخرى أصغر. يتم فتح كل قصبة في النهاية في واحدة من العديد من الحويصلات الهوائية (الحويصلات الهوائية) التي يوجد منها حوالي 600 مليون لكل رئة. تعتبر الجدران السنخية الرقيقة السطح التنفسي الفعلي ، لأنها محاطة بشبكة كبيرة من الشعيرات الدموية. يتلقى الدم الأكسجين من الهواء السنخي وينقله إلى باقي الجسم. يقوم بإخراج ثاني أكسيد الكربون إلى الحويصلات الهوائية في المقابل حتى يتمكن من التخلص منه. تشكل المجموعة الكاملة من الحويصلات الهوائية والقصيبات المتصلة بها ، جنبًا إلى جنب مع الشبكة الضخمة من الشعيرات الدموية ، الرئة. كل حيوان بما في ذلك الإنسان يمتلك رئتين ، رئة يمنى وأخرى يسرى. يلعب الجهاز التنفسي عند الإنسان دورًا مهمًا في إفراز الماء في الهواء الذي يحتوي على بخار الماء. يفقد الإنسان عادة ما يقرب من 500 سم مكعب من الماء يوميًا من خلال رئتيه خارج سم 3 من الماء IJ1at 2500 من الخسارة يوميًا. TI1is يرجع إلى تبخر الماء الذي يؤدي إلى rnojsrens الأغشية الحويصلات الهوائية. هذا الماء ضروري لإذابة الأكسجين وثاني أكسيد الكربون بحيث يحدث تبادل الغازات بين هواء الحويصلات الهوائية والدم المحيط في الشعيرات الدموية."
+      },
+      "audio": {
+        "en": "audioFiles/Respiration_in_human_en.mp3",
+        "ar": ""
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "word": "adenine",
+      "definition": "A chemical compound that is used to make one of the building blocks of DNA and RNA",
+      "abbreviation": "",
+      "objId": "",
+      "objTitle": ""
+    },
+    {
+      "word": "adenosine diphosphate adp",
+      "definition": " A nucleotide made up of adenine, ribose, and two phosphate units;",
+      "abbreviation": "ADP",
+      "objId": ""
+    },
+    {
+      "word": "adenosine triphosphate",
+      "definition": "is an organic compound and hydrotrope that provides energy to drive many processes in living cells",
+      "abbreviation": "ATP",
+      "objId": "6138d775aa91823829859400",
+      "objTitle": "ATP slide"
+    },
+    {
+      "word": "aerobic respiration",
+      "definition": "Aerobic respiration needs oxygen. It is the release of a relatively large amount of energy in cells by the breakdown of food substances in the presence of oxygen: glucose + oxygen → carbon dioxide + water.",
+      "abbreviation": "",
+      "objId": "",
+      "sections": [107202764562]
+    },
+    {
+      "word": "anaerobic respiration",
+      "definition": "",
+      "abbreviation": "",
+      "objId": "",
+      "sections": [107202764562]
+    },
+    {
+      "word": "anda 5-carbon pentose sugar",
+      "definition": "",
+      "abbreviation": "",
+      "objId": ""
+    },
+    {
+      "word": "cellular",
+      "sections": [89863198556, 100502329152, 109824618867, 70335069006],
+      "sectionId": 70335069006
+    },
+    {
+      "word": "cellular respiration",
+      "definition": "",
+      "abbreviation": "",
+      "objId": "",
+      "sections": [100502329152, 109824618867]
+    },
+    {
+      "word": "chemical energy",
+      "definition": "",
+      "abbreviation": "",
+      "objId": "",
+      "sections": [97981394518]
+    },
+    {
+      "word": "cytochromes",
+      "definition": "",
+      "abbreviation": "",
+      "objId": "",
+      "sections": [120057072545]
+    },
+    {
+      "word": "cytosole",
+      "definition": "",
+      "abbreviation": "",
+      "objId": "",
+      "sections": [120057072545, 107202764562]
+    },
+    {
+      "word": "glucose molecule",
+      "definition": "",
+      "abbreviation": "",
+      "objId": "",
+      "sections": [120057072545, 121450865971],
+      "sectionId": 120057072545
+    },
+    {
+      "word": "glycolysis",
+      "definition": "Glycolysis is the first step in the breakdown of glucose to extract energy for cellular metabolism. Glycolysis consists of an energy-requiring phase followed by an energy-releasing phase. ",
+      "abbreviation": "",
+      "objId": "",
+      "sections": [120057072545, 107202764562]
+    },
+    {
+      "word": "krebs cycle",
+      "definition": "the sequence of reactions by which most living cells generate energy during the process of aerobic respiration. It takes place in the mitochondria, using up oxygen and producing carbon dioxide and water as waste products, and ADP is converted to energy-rich ATP.",
+      "abbreviation": "",
+      "objId": "613caa5262d8a210c30ef429",
+      "sections": [120057072545, 107202764562, 73759552509],
+      "objTitle": "Krebs Interactive video"
+    },
+    {
+      "word": "photosynthesis",
+      "definition": "The process by which green plants and some other organisms use sunlight to synthesize nutrients from carbon dioxide and water. Photosynthesis in plants generally involves the green pigment chlorophyll and generates oxygen as a by-product.",
+      "abbreviation": "",
+      "objId": "",
+      "sections": [97981394518]
+    },
+    {
+      "word": "respiration process",
+      "definition": "Respiration is the process of gas exchange between the air and an organism's cells. Three types of respiration include internal, external, and cellular respiration. External respiration is the breathing process. It involves inhalation and exhalation of gases",
+      "abbreviation": "",
+      "objId": "",
+      "sections": [89863198556]
+    },
+    {
+      "word": "Stretching",
+      "definition": "Stretched to its full length, a single molecule of human DNA extends more than three feet, but, when wound up inside the nucleus of a cell, that same molecule measures about one millionth of an inch across.",
+      "objId": "615617d3e163b70041f6e806",
+      "objTitle": "phet",
+      "abbreviation": "DNA"
+    }
+  ],
+  "objectives": [
+    {
+      "id": 120638055283,
+      "name": "Identify the concept of cellular respiration.",
+      "description": "First Node(Root)",
+      "expanded": false,
+      "nodeNum": 0,
+      "depth": 0,
+      "sections": [
+        {
+          "sectionId": 100502329152,
+          "sectionName": "why respiration",
+          "index": 52,
+          "length": 163,
+          "text": "<p>In <a href=\"unsafe:cellular\" target=\"_blank\">cellular</a> respiration the cell breaks down food molecules in order to release the <span style=\"background-color:#ffc266\">energy</span> which is used by the cell to perform its vital functions and activities.</p>"
+        }
+      ]
+    },
+    {
+      "name": "Understand the steps of glycolysis and its importance.",
+      "id": 113491026025,
+      "depth": 0,
+      "nodeNum": 1,
+      "sections": [
+        {
+          "sectionId": 107202764562,
+          "sectionName": "Glycolysis",
+          "index": 14,
+          "length": 525,
+          "text": "<p class=\"ql-align-justify\"><a href=\"unsafe:glycolysis\" target=\"_blank\">glycolysis</a> takes place in both aerobic and an<a href=\"unsafe:aerobic respiration\" target=\"_blank\">aerobic respiration</a> produce energy in which <span style=\"background-color:#cce8cc\">one molecule of glucose breakdown forming two molecules of pyruvic acid (3-carbons)</span> passing through a group of reactions through which glucose is converted into glucose (6-phosphate) then fructose (6-phosphate) then fructose 1-6 diphosphate which forms two molecules of PGAL phosphoglyceraldehyde</p><p>to be oxidized in two pyruvic and reduce two molecules of NAD<sup>+</sup> into NADH and two molecules of ATP are produced in the <a href=\"unsafe:cytosole\" target=\"_blank\">cytosole</a> of the cell.</p>"
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "citation": "Slonczewski, Joan L.; Foster, John W. (2011). Microbiology: An Evolving Science (2nd ed.). New York: W.W. Norton. p. 166.",
+      "sections": [{ "sectionId": 121450865971, "index": 223 }],
+      "no": 1
+    }
+  ],
+  "bookObjects": [
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "none",
+      "deleted": false,
+      "_id": "6138d775aa91823829859400",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-08T15:32:05.931Z",
+      "updatedAt": "2022-03-05T22:15:20.577Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "ATP slide",
+      "language": "en",
+      "url": "h5p/ATP_slide_6138d775aed43335f25582f1.html",
+      "contentType": "html",
+      "teachingStrategy": "defination",
+      "instructionalrole": "define",
+      "courseCode": "",
+      "lessonCode": "",
+      "h5pId": "6138d775aed43335f25582f1",
+      "bookId": "612eab6837d5479b58cb2232",
+      "domainId": "ARABIC",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "none",
+      "deleted": false,
+      "_id": "6134fe9eaa918253328593e0",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-05T17:30:06.409Z",
+      "updatedAt": "2021-09-05T17:30:51.558Z",
+      "tenantId": "null",
+      "ownershipId": "null_ut1",
+      "title": "cellular resp test",
+      "language": "en",
+      "url": "h5p/cellular_resp_test_6134fe9e65e96e1b930691d6.html",
+      "contentType": "html",
+      "teachingStrategy": "rest",
+      "instructionalrole": "test",
+      "courseCode": "",
+      "lessonCode": "",
+      "h5pId": "6134fe9e65e96e1b930691d6",
+      "bookId": "612eab6837d5479b58cb2232",
+      "domainId": "ARABIC",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "male",
+      "deleted": false,
+      "_id": "612bb833f8bc10436a4979ec",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-08-29T16:39:15.020Z",
+      "updatedAt": "2021-08-29T19:20:14.512Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "Test",
+      "language": "en",
+      "url": "h5p/interactive_content_612bb832f2f8fe7053ee5ed4.html",
+      "contentType": "html",
+      "teachingStrategy": "Quest",
+      "instructionalrole": "test",
+      "courseCode": "Azhar",
+      "lessonCode": "105",
+      "h5pId": "612bb832f2f8fe7053ee5ed4",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "none",
+      "deleted": false,
+      "_id": "613caf3562d8a282650ef42b",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-11T13:29:25.648Z",
+      "updatedAt": "2021-09-11T13:29:48.562Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "function of rspiretory",
+      "language": "en",
+      "url": "h5p/function_of_rspiretory_613caf356682bafe902e7352.html",
+      "contentType": "html",
+      "teachingStrategy": "testing",
+      "instructionalrole": "test",
+      "courseCode": "",
+      "lessonCode": "",
+      "h5pId": "613caf356682bafe902e7352",
+      "domainId": "ARABIC",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "url",
+      "speakerGender": "male",
+      "deleted": false,
+      "_id": "615617d3e163b70041f6e806",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-30T20:02:27.409Z",
+      "updatedAt": "2021-09-30T20:02:27.464Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "phet",
+      "language": "en",
+      "domainId": "ARABIC",
+      "instructionalrole": "define",
+      "teachingStrategy": "define",
+      "url": "https://phet.colorado.edu/sims/cheerpj/optical-tweezers/latest/optical-tweezers.html?simulation=stretching-dna",
+      "contentType": null,
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "none",
+      "deleted": false,
+      "_id": "61379048aa91821c4e8593fa",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-07T16:16:08.029Z",
+      "updatedAt": "2022-03-06T21:46:03.281Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "sort",
+      "language": "en",
+      "url": "h5p/sort_61379048aed43370075582ef.html",
+      "contentType": "html",
+      "teachingStrategy": "test",
+      "instructionalrole": "test",
+      "courseCode": "",
+      "lessonCode": "",
+      "h5pId": "61379048aed43370075582ef",
+      "bookId": "612eab6837d5479b58cb2232",
+      "domainId": "ARABIC",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "none",
+      "deleted": false,
+      "_id": "61321a7dbf84683531870217",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-03T12:52:13.152Z",
+      "updatedAt": "2022-03-05T22:16:46.123Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "METOCONDERIA",
+      "language": "en",
+      "url": "h5p/METOCONDERIA_61321a7c65e96e623f0691cd.html",
+      "contentType": "html",
+      "teachingStrategy": "Explain",
+      "instructionalrole": "HOT SPOT",
+      "courseCode": "",
+      "lessonCode": "",
+      "h5pId": "61321a7c65e96e623f0691cd",
+      "bookId": "612eab6837d5479b58cb2232",
+      "domainId": "ARABIC",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "male",
+      "deleted": false,
+      "_id": "612bbe1ef8bc10d29c4979ef",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-08-29T17:04:30.834Z",
+      "updatedAt": "2021-08-29T17:04:30.898Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "true or false",
+      "language": "en",
+      "url": "h5p/true_or_false_612bbe1ef2f8fe3364ee5ed7.html",
+      "contentType": "html",
+      "teachingStrategy": "Quest",
+      "instructionalrole": "test",
+      "courseCode": "Azhar",
+      "lessonCode": "105",
+      "h5pId": "612bbe1ef2f8fe3364ee5ed7",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "none",
+      "deleted": false,
+      "_id": "613db7bb62d8a25ac40ef432",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-12T08:18:03.343Z",
+      "updatedAt": "2021-09-12T08:18:15.750Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "Aerobic and  Anaerobic",
+      "language": "en",
+      "url": "h5p/Aerobic_and__Anaerobic_613db7ba6682ba30f42e7358.html",
+      "contentType": "html",
+      "teachingStrategy": "explanation",
+      "instructionalrole": "explain",
+      "courseCode": "",
+      "lessonCode": "",
+      "h5pId": "613db7ba6682ba30f42e7358",
+      "domainId": "ARABIC",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "url",
+      "speakerGender": "none",
+      "deleted": false,
+      "_id": "61561a19e163b7ce1ff6e807",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-30T20:12:09.826Z",
+      "updatedAt": "2021-09-30T20:12:09.893Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "phet",
+      "language": "en",
+      "domainId": "ARABIC",
+      "instructionalrole": "",
+      "teachingStrategy": "",
+      "url": "https://phet.colorado.edu/sims/cheerpj/optical-tweezers/latest/optical-tweezers.html?simulation=stretching-dna",
+      "contentType": null,
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "none",
+      "deleted": false,
+      "_id": "613627d0aa918280dc8593e9",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-06T14:38:08.795Z",
+      "updatedAt": "2021-11-22T23:18:53.935Z",
+      "tenantId": "null",
+      "ownershipId": "null_ut1",
+      "title": "Glycolysis",
+      "language": "en",
+      "url": "h5p/Glyco_613627cf65e96e2d250691df.html",
+      "contentType": "html",
+      "teachingStrategy": "explaination",
+      "instructionalrole": "explain",
+      "courseCode": "",
+      "lessonCode": "",
+      "h5pId": "613627cf65e96e2d250691df",
+      "bookId": "612eab6837d5479b58cb2232",
+      "domainId": "ARABIC",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "none",
+      "deleted": false,
+      "_id": "61326fb0a7c67f110b50ef19",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-03T18:55:44.060Z",
+      "updatedAt": "2022-03-05T22:17:26.157Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "respiration reaction",
+      "language": "en",
+      "url": "h5p/respiration_reaction_61326fae65e96e716e0691d0.html",
+      "contentType": "html",
+      "teachingStrategy": "display",
+      "instructionalrole": "equation",
+      "courseCode": "",
+      "lessonCode": "",
+      "h5pId": "61326fae65e96e716e0691d0",
+      "bookId": "612eab6837d5479b58cb2232",
+      "domainId": "ARABIC",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "male",
+      "deleted": false,
+      "_id": "612bbe16f8bc10ca844979ee",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-08-29T17:04:22.771Z",
+      "updatedAt": "2021-08-29T17:04:22.810Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "true or false",
+      "language": "en",
+      "url": "h5p/true_or_false_612bbe16f2f8fe4cb2ee5ed6.html",
+      "contentType": "html",
+      "teachingStrategy": "Quest",
+      "instructionalrole": "test",
+      "courseCode": "Azhar",
+      "lessonCode": "105",
+      "h5pId": "612bbe16f2f8fe4cb2ee5ed6",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "male",
+      "deleted": false,
+      "_id": "613ce91c62d8a275040ef430",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-11T17:36:28.123Z",
+      "updatedAt": "2022-03-05T18:18:25.277Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": " respiration system in human",
+      "language": "en",
+      "url": "h5p/respiration_system_in_human_613ce91b6682ba3a152e7357.html",
+      "contentType": "html",
+      "teachingStrategy": "explain",
+      "instructionalrole": "explain",
+      "courseCode": "",
+      "lessonCode": "",
+      "h5pId": "613ce91b6682ba3a152e7357",
+      "domainId": "ARABIC",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "url",
+      "speakerGender": "male",
+      "deleted": false,
+      "_id": "615617d3e163b70041f6e806",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-30T20:02:27.409Z",
+      "updatedAt": "2021-09-30T20:02:27.464Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "phet",
+      "language": "en",
+      "domainId": "ARABIC",
+      "instructionalrole": "define",
+      "teachingStrategy": "define",
+      "url": "https://phet.colorado.edu/sims/cheerpj/optical-tweezers/latest/optical-tweezers.html?simulation=stretching-dna",
+      "contentType": null,
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "none",
+      "deleted": false,
+      "_id": "6137718aaa9182e47a8593f6",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-07T14:04:58.814Z",
+      "updatedAt": "2022-03-06T21:45:26.726Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "keywords",
+      "language": "en",
+      "url": "h5p/keywords_6137718aaed433346d5582ea.html",
+      "contentType": "html",
+      "teachingStrategy": "test",
+      "instructionalrole": "test",
+      "courseCode": "",
+      "lessonCode": "",
+      "h5pId": "6137718aaed433346d5582ea",
+      "bookId": "612eab6837d5479b58cb2232",
+      "domainId": "ARABIC",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "male",
+      "deleted": false,
+      "_id": "612559711337b644cba65725",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-08-24T20:41:21.233Z",
+      "updatedAt": "2022-03-05T18:15:08.342Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "RESPIRATION",
+      "language": "en",
+      "url": "h5p/RESPIRATION_61255971f2f8febbb1ee5ecf.html",
+      "contentType": "html",
+      "teachingStrategy": "explain",
+      "instructionalrole": "explain",
+      "courseCode": "Azhar",
+      "lessonCode": "99",
+      "h5pId": "61255971f2f8febbb1ee5ecf",
+      "bookId": "612927e9f8bc10ca2c4979ea",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "male",
+      "deleted": false,
+      "_id": "613cabd962d8a28e8b0ef42a",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-11T13:15:05.848Z",
+      "updatedAt": "2022-03-06T21:30:04.418Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "ترتيب - نص",
+      "language": "en",
+      "url": "h5p/sorting_the_stru_cture_of_respir_etory_613cabd96682ba6dce2e7351.html",
+      "contentType": "html",
+      "teachingStrategy": "test",
+      "instructionalrole": "test",
+      "courseCode": "",
+      "lessonCode": "",
+      "h5pId": "613cabd96682ba6dce2e7351",
+      "domainId": "ARABIC",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "none",
+      "deleted": false,
+      "_id": "613e4cc162d8a283b20ef434",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-12T18:53:53.456Z",
+      "updatedAt": "2021-09-12T18:54:08.130Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "energy",
+      "language": "en",
+      "url": "h5p/energy_613e4cc16682baedcc2e735a.html",
+      "contentType": "html",
+      "teachingStrategy": "explanation",
+      "instructionalrole": "explain",
+      "courseCode": "",
+      "lessonCode": "",
+      "h5pId": "613e4cc16682baedcc2e735a",
+      "domainId": "ARABIC",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": true
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [
+        "cellular respiration",
+        "ATP",
+        "oxidation reactions",
+        "electron transport chain",
+        "pyruvate molecules",
+        "glycolysis",
+        "Krebs cycle",
+        "mitochondria"
+      ],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "preprocessed",
+      "processingPercent": 85,
+      "type": "mo",
+      "speakerGender": "male",
+      "deleted": false,
+      "_id": "619c19b8cacb4f019387c020",
+      "audioList": [
+        {
+          "url": "processed/azharengineering2020/ut1/Azhar/d7d77d3d-5a83-42e4-aec4-4654216425e6_chp892400_300k.mp3",
+          "langCode": "en",
+          "langName": "English"
+        },
+        {
+          "langCode": "ar",
+          "url": "processed/azharengineering2020/ut1/Azhar/d7d77d3d-5a83-42e4-aec4-4654216425e6_chp892400_300k_ar.mp3",
+          "langName": "Arabic",
+          "duration": 115.968
+        }
+      ],
+      "vttList": [
+        {
+          "langCode": "en",
+          "langName": "English",
+          "url": "processed/azharengineering2020/ut1/Azhar/d7d77d3d-5a83-42e4-aec4-4654216425e6_chp892400_300k_en.vtt"
+        },
+        {
+          "langCode": "ar",
+          "langName": "Arabic",
+          "url": "processed/azharengineering2020/ut1/Azhar/d7d77d3d-5a83-42e4-aec4-4654216425e6_chp892400_300k_ar.vtt"
+        },
+        {
+          "langCode": "eg",
+          "langName": "Egyptian Style",
+          "url": "processed/azharengineering2020/ut1/Azhar/d7d77d3d-5a83-42e4-aec4-4654216425e6_chp892400_300k_eg.vtt",
+          "signedurl": ""
+        }
+      ],
+      "availableLanguages": [
+        {
+          "data": {
+            "transcript": "Plants create their own glucose,\u0000 but both animals and plants must break down that glucose and capture as much chemical energy as possible in molecules of ATP.\n\u0000 They do this through glycolysis in a process called cellular respiration in glycolysis the start of the process.\n\u0000 The glucose molecule is broken in half yielding a pair of 3.\n\u0000 Carbon molecules called pyruvate,\u0000 but the net yield of ATP is only 2 molecules.\n\u0000 Only 2.\n\u0000 The cellular respiration process comprises 3 stages,\u0000 pyruvate oxidation,\u0000 the Krebs cycle and the electron transport chain.\n\u0000 It takes place in the cells of plants and animals in the organ else called the mitochondria.\n\u0000 The pyruvate molecules produced by glycolysis are broken down even further by oxidation reactions into acetyl coenzyme,\u0000 a the raw material for the Krebs cycle.\n\u0000 This cycle is a series of reactions that produces 180 P.\n\u0000 for each molecule of acetyl coenzyme a and releases many electrons which are carried to the next phase.\n\u0000 The third phase is called the electron transport chain.\n\u0000 Chemical reactions and processes take place along the chain producing an additional 32 molecules of ATP yeah.\n\u0000 All of these energy molecules can be used in cells to drive the millions of chemical reactions necessary for life.\n\u0000 .\n\u0000  .\n\u0000 ",
+            "summary25": "Plants create their own glucose, but both animals and plants must break down that glucose and capture as much chemical energy as possible in molecules of ATPThey do this through glycolysis in a process called cellular respiration in glycolysis the start of the process[...] Chemical reactions and processes take place along the chain producing an additional 32 molecules of ATP yeahAll of these energy molecules can be used in cells to drive the millions of chemical reactions necessary for life.",
+            "summary50": "Plants create their own glucose, but both animals and plants must break down that glucose and capture as much chemical energy as possible in molecules of ATPThey do this through glycolysis in a process called cellular respiration in glycolysis the start of the processThe glucose molecule is broken in half yielding a pair of 3Carbon molecules called pyruvate, but the net yield of ATP is only 2 molecules[...] It takes place in the cells of plants and animals in the organ else called the mitochondria[...] This cycle is a series of reactions that produces 180 Pfor each molecule of acetyl coenzyme a and releases many electrons which are carried to the next phase[...] Chemical reactions and processes take place along the chain producing an additional 32 molecules of ATP yeahAll of these energy molecules can be used in cells to drive the millions of chemical reactions necessary for life.",
+            "keywords": []
+          },
+          "frameUrls": [],
+          "frameList": [],
+          "languageCode": "en",
+          "isEdited": false
+        },
+        {
+          "data": {
+            "transcript": "تنتج النباتات الجلوكوز الخاص بها ، \u0000 ولكن يجب على كل من الحيوانات والنباتات تكسير هذا الجلوكوز والتقاط أكبر قدر ممكن من الطاقة الكيميائية في جزيئات ATP.\n \u0000 يفعلون ذلك من خلال تحلل السكر في عملية تسمى التنفس الخلوي في تحلل السكر بداية العملية.\n \u0000 جزيء الجلوكوز ينكسر إلى النصف ليحصل على زوج من 3.\n \u0000 جزيئات كربون تسمى البيروفات ، \u0000 لكن المحصول الصافي لـ ATP هو جزيئين فقط.\n \u0000 فقط 2.\n \u0000 تتكون عملية التنفس الخلوي من 3 مراحل ، أكسدة البيروفات \u0000 ، دورة كريبس \u0000 وسلسلة نقل الإلكترون.\n \u0000 يحدث في خلايا النباتات والحيوانات في عضو آخر يسمى الميتوكوندريا.\n \u0000 يتم تكسير جزيئات البيروفات الناتجة عن التحلل السكري بشكل أكبر عن طريق تفاعلات الأكسدة إلى أنزيم أسيتيل ، \u0000 المادة الخام لدورة كريبس.\n \u0000 هذه الدورة عبارة عن سلسلة من التفاعلات ينتج عنها 180 درجة مئوية.\n \u0000 لكل جزيء من الإنزيم المساعد أسيتيل ويطلق العديد من الإلكترونات التي يتم نقلها إلى المرحلة التالية.\n \u0000 المرحلة الثالثة تسمى سلسلة نقل الإلكترون.\n \u0000 تحدث التفاعلات والعمليات الكيميائية على طول السلسلة مما ينتج 32 جزيء إضافي من ATP نعم.\n \u0000 يمكن استخدام كل جزيئات الطاقة هذه في الخلايا لتحريك ملايين التفاعلات الكيميائية الضرورية للحياة.\n \u0000.\n \u0000.\n \u0000",
+            "summary25": "تخلق النباتات الجلوكوز الخاص بها ، ولكن يجب على كل من الحيوانات والنباتات تكسير هذا الجلوكوز والتقاط أكبر قدر ممكن من الطاقة الكيميائية في جزيئات ATP ، وهم يفعلون ذلك من خلال تحلل الجلوكوز في عملية تسمى التنفس الخلوي في تحلل السكر بداية العملية [...] تحدث التفاعلات والعمليات الكيميائية على طول السلسلة لإنتاج 32 جزيءًا إضافيًا من ATP ، نعم يمكن استخدام كل جزيئات الطاقة هذه في الخلايا لدفع ملايين التفاعلات الكيميائية الضرورية للحياة.",
+            "summary50": "تخلق النباتات الجلوكوز الخاص بها ، ولكن يجب على كل من الحيوانات والنباتات تكسير هذا الجلوكوز والتقاط أكبر قدر ممكن من الطاقة الكيميائية في جزيئات ATP ، يقومون بذلك من خلال تحلل الجلوكوز في عملية تسمى التنفس الخلوي في تحلل السكر بداية العملية نصف ينتج زوجًا من 3 جزيئات كربون تسمى البيروفات ، لكن العائد الصافي لـ ATP هو جزيئين فقط [...] يحدث في خلايا النباتات والحيوانات في عضو آخر يسمى الميتوكوندريا [...] هذه الدورة هي سلسلة من التفاعلات التي تنتج 180 P لكل جزيء من الأسيتيل المساعد أ وتطلق العديد من الإلكترونات التي يتم نقلها إلى المرحلة التالية [...] تحدث التفاعلات والعمليات الكيميائية على طول السلسلة لإنتاج 32 جزيءًا إضافيًا من ATP نعم كل هذه الطاقة يمكن استخدام الجزيئات في الخلايا لدفع ملايين التفاعلات الكيميائية الضرورية للحياة.",
+            "keywords": []
+          },
+          "frameUrls": [],
+          "frameList": [],
+          "languageCode": "ar",
+          "isEdited": false
+        },
+        {
+          "data": {
+            "transcript": "تنتج النباتات الجلوكوز الخاص بها ، \u0000 ولكن يجب على كل من الحيوانات والنباتات تكسير هذا الجلوكوز والتقاط أكبر قدر ممكن من الطاقة الكيميائية في جزيئات ATP.\n \u0000 يقومون بذلك من خلال glycolysis في عملية تسمى cellular respiration في glycolysis بداية العملية.\n \u0000 جزيء الجلوكوز ينكسر إلى النصف ليحصل على زوج من 3.\n \u0000 جزيئات الكربون المسماة بيروفات ، \u0000 لكن صافي العائد لـ ATP هو جزيئين فقط.\n \u0000 فقط 2.\n \u0000 تتكون العملية cellular respiration من 3 مراحل ، وأكسدة البيروفات \u0000 ، و \u0000 Krebs cycle و electron transport chain.\n \u0000 يحدث في خلايا النباتات والحيوانات في عضو آخر يسمى mitochondria.\n \u0000 تم تقسيم pyruvate molecules الذي تم إنتاجه بواسطة glycolysis إلى أبعد من ذلك بواسطة oxidation reactions إلى أنزيم أسيتيل ، \u0000 مادة خام لـ Krebs cycle.\n \u0000 هذه الدورة عبارة عن سلسلة من التفاعلات ينتج عنها 180 درجة مئوية.\n \u0000 لكل جزيء من الإنزيم المساعد أسيتيل ويطلق العديد من الإلكترونات التي يتم نقلها إلى المرحلة التالية.\n \u0000 المرحلة الثالثة تسمى electron transport chain.\n \u0000 تحدث التفاعلات والعمليات الكيميائية على طول السلسلة وتنتج 32 جزيءًا إضافيًا من ATP نعم.\n \u0000 يمكن استخدام كل جزيئات الطاقة هذه في الخلايا لتحريك ملايين التفاعلات الكيميائية الضرورية للحياة.\n \u0000.\n \u0000.\n \u0000",
+            "summary25": "تخلق النباتات الجلوكوز الخاص بها ، ولكن يجب على كل من الحيوانات والنباتات تكسير هذا الجلوكوز والتقاط أكبر قدر ممكن من الطاقة الكيميائية في جزيئات ATP يفعلون ذلك من خلال glycolysis في عملية تسمى cellular respiration في glycolysis بداية العملية [...] كيميائي تحدث التفاعلات والعمليات على طول السلسلة لإنتاج 32 جزيءًا إضافيًا من ATP نعم ، يمكن استخدام كل جزيئات الطاقة هذه في الخلايا لدفع ملايين التفاعلات الكيميائية الضرورية للحياة.",
+            "summary50": "تخلق النباتات الجلوكوز الخاص بها ، ولكن يجب على كل من الحيوانات والنباتات تكسير هذا الجلوكوز والتقاط أكبر قدر ممكن من الطاقة الكيميائية في جزيئات ATP ، ويقومون بذلك من خلال glycolysis في عملية تسمى cellular respiration في glycolysis بداية العملية ، حيث يتم تكسير جزيء الجلوكوز إلى النصف. ينتج عن زوج من 3 جزيئات كربون تسمى البيروفات ، ولكن صافي إنتاج ATP هو جزيئين فقط [...] يحدث في خلايا النباتات والحيوانات في العضو الآخر المسمى mitochondria [...] هذه الدورة عبارة عن سلسلة من التفاعلات التي تنتج 180 P لكل جزيء من أنزيم الأسيتيل أ وتطلق العديد من الإلكترونات التي يتم نقلها إلى المرحلة التالية [...] تحدث التفاعلات والعمليات الكيميائية على طول السلسلة لإنتاج 32 جزيءًا إضافيًا من ATP نعم كل جزيئات الطاقة هذه يمكن استخدامه في الخلايا لدفع ملايين التفاعلات الكيميائية الضرورية للحياة.",
+            "keywords": []
+          },
+          "frameUrls": [],
+          "frameList": [],
+          "languageCode": "eg",
+          "isEdited": false
+        }
+      ],
+      "createdAt": "2021-11-22T22:29:12.601Z",
+      "updatedAt": "2021-11-23T21:27:00.503Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "Glycolysis and Cellular Respiration",
+      "language": "en",
+      "url": "media/azharengineering2020/ut1/Azhar/d7d77d3d-5a83-42e4-aec4-4654216425e6_chp892400_300k.mp4",
+      "courseCode": "Azhar",
+      "teachingStrategy": "define",
+      "instructionalrole": "define",
+      "lessonCode": "106",
+      "contentType": "video/mp4",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "none",
+      "deleted": false,
+      "_id": "613514c0aa9182fdb78593e2",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-05T19:04:32.901Z",
+      "updatedAt": "2022-03-05T22:13:45.261Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "ATP structure",
+      "language": "en",
+      "url": "h5p/ATP_structure_613514c065e96e4c6e0691d8.html",
+      "contentType": "html",
+      "teachingStrategy": "defination",
+      "instructionalrole": "define",
+      "courseCode": "",
+      "lessonCode": "",
+      "h5pId": "613514c065e96e4c6e0691d8",
+      "bookId": "612eab6837d5479b58cb2232",
+      "domainId": "ARABIC",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 25,
+      "type": "mo",
+      "speakerGender": "none",
+      "deleted": false,
+      "_id": "613109b4bf84683ab1870212",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-02T17:28:20.669Z",
+      "updatedAt": "2021-11-03T00:02:27.484Z",
+      "tenantId": "null",
+      "ownershipId": "null_ut1",
+      "title": "breath",
+      "language": "en",
+      "domainId": "ARABIC",
+      "bookId": "612eab6837d5479b58cb2232",
+      "instructionalrole": "Explain",
+      "teachingStrategy": "explain",
+      "url": "media/null/ut1/other/f666783a-0e42-425b-ba6f-f9c2c27c9c59_istockphoto-468095270-640_adpp_is.mp4",
+      "contentType": "video/mp4",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "none",
+      "deleted": false,
+      "_id": "613caa5262d8a210c30ef429",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-11T13:08:34.391Z",
+      "updatedAt": "2021-09-11T13:09:18.286Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "Krebs Interactive video",
+      "language": "en",
+      "url": "h5p/Krebs_Interactive_video_613caa526682ba1b322e7350.html",
+      "contentType": "html",
+      "teachingStrategy": "explanation",
+      "instructionalrole": "explain",
+      "courseCode": "",
+      "lessonCode": "",
+      "h5pId": "613caa526682ba1b322e7350",
+      "domainId": "ARABIC",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "io",
+      "speakerGender": "none",
+      "deleted": false,
+      "_id": "613dccb862d8a2a6420ef433",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-12T09:47:36.742Z",
+      "updatedAt": "2021-09-12T09:48:39.610Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "Alveoli",
+      "language": "en",
+      "url": "h5p/Alveoli_613dccb86682ba739f2e7359.html",
+      "contentType": "html",
+      "teachingStrategy": "explanation",
+      "instructionalrole": "explain",
+      "courseCode": "",
+      "lessonCode": "",
+      "h5pId": "613dccb86682ba739f2e7359",
+      "domainId": "ARABIC",
+      "narration": []
+    },
+    {
+      "approved": {
+        "summary25": { "en": false, "ar": false, "eg": false },
+        "summary50": { "en": false, "ar": false, "eg": false },
+        "keywords": false
+      },
+      "isTemp": false,
+      "frameList": [],
+      "frameUrls": [],
+      "keywords": [],
+      "input": "visual",
+      "pagesCount": 0,
+      "isPublished": false,
+      "status": "un preprocessed",
+      "processingPercent": 0,
+      "type": "url",
+      "speakerGender": "none",
+      "deleted": false,
+      "_id": "61561e67e163b76483f6e808",
+      "audioList": [],
+      "vttList": [],
+      "availableLanguages": [],
+      "createdAt": "2021-09-30T20:30:31.130Z",
+      "updatedAt": "2021-09-30T20:30:31.184Z",
+      "tenantId": "azharengineering2020",
+      "ownershipId": "azharengineering2020_ut1",
+      "title": "ATPekb",
+      "language": "en",
+      "domainId": "ARABIC",
+      "instructionalrole": "",
+      "teachingStrategy": "",
+      "url": "https://study.ekb.eg/search?query=adenosine%20diphosphate%20adp&strict=false&popupUri=%2FResource%2Fc441e32d-01ed-4d4c-9531-b5327dbaf8d8",
+      "contentType": null,
+      "narration": []
+    }
+  ]
+}
