@@ -64,7 +64,7 @@ If you have the source code on your machine:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-![Image Alt Text]("./images/Screenshot_2023-06-21-19-03-51-94.png")
+![Image Alt Text](./images/Screenshot_2023-06-21-19-03-51-94.png)
 ![Image Alt Text]("./images/Screenshot_2023-06-21-18-59-34-41.png")
 ![Image Alt Text]("./images/Screenshot_2023-06-21-18-59-38-12.png")
 ![Image Alt Text]("./images/Screenshot_2023-06-21-18-59-41-75.png")
